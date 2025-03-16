@@ -1858,3 +1858,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Mar2025 22:21:46.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was blown up by ACUA-Ws
 [16Mar2025 22:21:46.143] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [16Mar2025 22:21:48.685] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[16Mar2025 22:31:13.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Disenchanter]
+[16Mar2025 22:31:13.623] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[16Mar2025 22:36:46.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29033, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[16Mar2025 22:37:14.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29218, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[16Mar2025 22:37:31.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29326, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[16Mar2025 22:37:51.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29386, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
