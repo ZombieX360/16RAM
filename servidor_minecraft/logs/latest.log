@@ -1887,3 +1887,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Mar2025 23:18:33.489] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
 [16Mar2025 23:18:45.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.5720637618222685
 [16Mar2025 23:18:52.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/57015, l='ServerLevel[world]', x=924.58, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
+[16Mar2025 23:37:28.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/73319, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
+[16Mar2025 23:38:34.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[16Mar2025 23:38:34.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[16Mar2025 23:39:04.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/82071, l='ServerLevel[world]', x=915.46, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[16Mar2025 23:39:51.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/82213, l='ServerLevel[world]', x=922.50, y=97.56, z=1643.50] died, message: 'Unemployed was killed'
