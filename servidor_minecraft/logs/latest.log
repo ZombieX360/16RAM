@@ -1875,3 +1875,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Mar2025 22:54:00.887] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [16Mar2025 22:54:25.305] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [16Mar2025 23:01:08.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43635, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[16Mar2025 23:13:56.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/52064, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[16Mar2025 23:14:40.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Great minds think alike]
+[16Mar2025 23:15:19.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Mutant Skeleton
+[16Mar2025 23:15:19.873] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[16Mar2025 23:16:43.398] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[16Mar2025 23:17:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Creative Mode]
+[16Mar2025 23:17:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Survival Mode]
+[16Mar2025 23:18:31.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was doomed to fall by Zombie
+[16Mar2025 23:18:31.524] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[16Mar2025 23:18:33.489] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[16Mar2025 23:18:45.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.5720637618222685
+[16Mar2025 23:18:52.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/57015, l='ServerLevel[world]', x=924.58, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
