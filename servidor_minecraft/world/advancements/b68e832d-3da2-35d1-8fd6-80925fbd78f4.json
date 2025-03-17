@@ -371,6 +371,7 @@
       "minecraft:cold_ocean": "2024-12-23 21:48:10 +0000",
       "minecraft:forest": "2024-12-30 21:58:11 +0000",
       "minecraft:lush_caves": "2024-12-24 13:50:59 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-17 06:37:46 +0000",
       "minecraft:frozen_ocean": "2024-12-23 22:09:14 +0000",
       "minecraft:windswept_forest": "2024-12-30 01:41:52 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-10 04:56:31 +0000",
@@ -14110,9 +14111,27 @@
     },
     "done": true
   },
+  "creategoggles:recipes/goggle_chainmail_helmet": {
+    "criteria": {
+      "has_helmet": "2025-03-17 06:43:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-03-17 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-03-17 06:41:48 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/multimeter": {
+    "criteria": {
+      "has_compass": "2025-03-17 06:41:48 +0000"
     },
     "done": true
   },
