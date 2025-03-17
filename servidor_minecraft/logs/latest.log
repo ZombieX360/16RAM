@@ -1938,3 +1938,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Mar2025 05:25:49.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
 [17Mar2025 05:27:10.265] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2278, y=-10, z=2138}
 [17Mar2025 05:27:10.265] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2278, y=-10, z=2139}
+[17Mar2025 05:27:40.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ACUA-Ws]
+[17Mar2025 05:28:19.461] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2278, y=-10, z=2138}
+[17Mar2025 05:29:29.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2639, y=-23, z=2206}
+[17Mar2025 05:29:36.068] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
+[17Mar2025 05:29:36.070] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
+[17Mar2025 05:29:36.713] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2600, y=-22, z=2218}
+[17Mar2025 05:29:36.963] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2659, y=-18, z=2201}
+[17Mar2025 05:30:20.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/59057, l='ServerLevel[world]', x=2402.50, y=75.00, z=2126.50]
+[17Mar2025 05:31:21.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2400, y=-42, z=2244}
+[17Mar2025 05:31:21.447] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2248, y=-49, z=2270}
+[17Mar2025 05:31:21.447] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2248, y=-49, z=2271}
+[17Mar2025 05:32:13.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/61645, l='ServerLevel[world]', x=2432.50, y=73.00, z=2141.50]
+[17Mar2025 05:32:50.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/62767, l='ServerLevel[world]', x=2515.50, y=71.00, z=2122.50]
+[17Mar2025 05:35:06.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[17Mar2025 05:35:16.866] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/64043, l='ServerLevel[world]', x=2433.50, y=73.00, z=2139.50]
+[17Mar2025 05:36:22.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Tunnel Treasures]
+[17Mar2025 05:36:40.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ACUA-Ws]
+[17Mar2025 05:37:00.668] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2732, y=-43, z=2153}
+[17Mar2025 05:37:07.049] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2751, y=-52, z=1955}
