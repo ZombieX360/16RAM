@@ -2400,3 +2400,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Mar2025 06:58:49.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -8.480837486151358,-5.554242679319415,-4.8246753509904465
 [17Mar2025 06:58:49.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -7.7082505344819765,-4.972473404555458,-4.369246216597048
 [17Mar2025 06:58:49.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -7.732188190124589,-5.01162691473985,-4.251499640456132
+[17Mar2025 07:01:52.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Broken Parts III]
+[17Mar2025 07:02:41.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[17Mar2025 07:02:41.669] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[17Mar2025 07:05:37.404] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[17Mar2025 07:05:37.409] [ForkJoinPool.commonPool-worker-1/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[17Mar2025 07:05:37.409] [ForkJoinPool.commonPool-worker-1/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[17Mar2025 07:05:37.409] [ForkJoinPool.commonPool-worker-1/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[17Mar2025 07:05:37.409] [ForkJoinPool.commonPool-worker-1/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[17Mar2025 07:05:37.410] [ForkJoinPool.commonPool-worker-1/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[17Mar2025 07:05:37.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> cgnzf
+[17Mar2025 07:05:49.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/170690, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
+[17Mar2025 07:08:03.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[17Mar2025 07:08:03.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[17Mar2025 07:08:12.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171731, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[17Mar2025 07:09:22.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171955, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
