@@ -10995,15 +10995,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_knowledge": {
+  "tombstone:adventure/disenchanter": {
     "criteria": {
-      "coded_trigger": "2025-03-16 23:14:40 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_decorative_grave": {
-    "criteria": {
-      "has_ingredient": "2025-03-16 22:51:44 +0000"
+      "coded_trigger": "2025-03-16 22:31:13 +0000"
     },
     "done": true
   },
@@ -11013,15 +11007,27 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-03-16 22:51:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2025-03-16 22:51:44 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/disenchanter": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "coded_trigger": "2025-03-16 22:31:13 +0000"
+      "coded_trigger": "2025-03-16 23:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-17 00:05:31 +0000"
     },
     "done": true
   },
