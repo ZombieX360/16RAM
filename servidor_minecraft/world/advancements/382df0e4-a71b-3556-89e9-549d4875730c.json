@@ -1142,6 +1142,7 @@
       "glow_berries": "2024-12-25 18:09:29 +0000",
       "melon_slice": "2025-01-08 02:05:10 +0000",
       "cooked_chicken": "2024-12-23 22:32:30 +0000",
+      "mushroom_stew": "2025-03-17 05:09:45 +0000",
       "carrot": "2025-01-09 06:51:44 +0000"
     },
     "done": false
@@ -11028,6 +11029,24 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-03-17 00:05:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-03-17 05:09:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-17 05:09:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-17 05:09:45 +0000"
     },
     "done": true
   },

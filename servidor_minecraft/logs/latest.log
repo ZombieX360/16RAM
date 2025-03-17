@@ -1922,3 +1922,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Mar2025 05:05:35.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2583, y=29, z=1759}
 [17Mar2025 05:05:35.547] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2595, y=26, z=1779}
 [17Mar2025 05:05:37.900] [Worker-Main-47/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[17Mar2025 05:08:39.796] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2568, y=-9, z=2075}
+[17Mar2025 05:09:25.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Mar2025 05:09:48.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[17Mar2025 05:09:57.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
+[17Mar2025 05:10:11.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.40055138575507954
+[17Mar2025 05:10:39.031] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25944, l='ServerLevel[world]', x=2288.43, y=127.77, z=1691.51] died, message: 'Unemployed was slain by Froststalker'
+[17Mar2025 05:13:16.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
