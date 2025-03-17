@@ -13001,7 +13001,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-03-15 23:59:26 +0000",
-      "opened_chest": "2025-03-16 00:14:22 +0000"
+      "opened_chest": "2025-03-16 00:14:22 +0000",
+      "opened_cart": "2025-03-17 05:36:22 +0000"
     },
     "done": false
   },
@@ -14064,9 +14065,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-03-17 05:42:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-03-17 05:36:22 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
       "ex": "2025-03-17 04:56:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-03-17 05:43:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-17 05:47:14 +0000"
     },
     "done": true
   },
