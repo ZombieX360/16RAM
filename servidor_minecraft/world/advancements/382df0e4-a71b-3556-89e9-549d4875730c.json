@@ -11065,6 +11065,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-03-17 06:49:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_dark_oak_planks": "2025-03-17 05:53:10 +0000"
