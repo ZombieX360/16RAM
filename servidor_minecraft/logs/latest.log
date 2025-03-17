@@ -2144,3 +2144,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Mar2025 05:56:58.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/90547, l='ServerLevel[world]', x=3351.50, y=74.00, z=2186.50]
 [17Mar2025 05:57:03.916] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/90572, l='ServerLevel[world]', x=3246.50, y=71.00, z=2215.50]
 [17Mar2025 05:57:12.315] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/90592, l='ServerLevel[world]', x=3376.50, y=73.00, z=2188.50]
+[17Mar2025 05:58:10.817] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/91010, l='ServerLevel[world]', x=3420.50, y=73.00, z=2202.50]
+[17Mar2025 05:58:15.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3334, y=25, z=2516}
+[17Mar2025 05:58:33.567] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3566, y=-44, z=2383}
+[17Mar2025 05:58:34.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Zombie
+[17Mar2025 05:58:34.196] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[17Mar2025 05:58:35.957] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[17Mar2025 05:58:54.667] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/92354, l='ServerLevel[world]', x=3348.50, y=73.00, z=2198.50]
+[17Mar2025 05:59:19.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/93494, l='ServerLevel[world]', x=3348.50, y=73.00, z=2197.50]
+[17Mar2025 05:59:23.415] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/93792, l='ServerLevel[world]', x=3394.50, y=70.00, z=2179.50]
+[17Mar2025 06:00:01.919] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/96646, l='ServerLevel[world]', x=3374.50, y=73.00, z=2189.50]
+[17Mar2025 06:00:02.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Zombie
+[17Mar2025 06:00:02.100] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[17Mar2025 06:00:17.706] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[17Mar2025 06:00:54.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/98400, l='ServerLevel[world]', x=3474.50, y=74.00, z=2239.50]
+[17Mar2025 06:01:09.521] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/98551, l='ServerLevel[world]', x=3396.50, y=70.00, z=2181.50]
+[17Mar2025 06:01:27.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Zombie
+[17Mar2025 06:01:27.600] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[17Mar2025 06:01:41.550] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[17Mar2025 06:01:56.303] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/100715, l='ServerLevel[world]', x=3348.50, y=73.00, z=2196.50]
+[17Mar2025 06:02:26.624] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/101020, l='ServerLevel[world]', x=3245.50, y=71.00, z=2217.50]
+[17Mar2025 06:02:44.316] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/101205, l='ServerLevel[world]', x=3461.50, y=73.00, z=2213.50]
+[17Mar2025 06:02:51.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Zombie
+[17Mar2025 06:02:51.400] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[17Mar2025 06:02:52.740] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[17Mar2025 06:03:11.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Zombie
+[17Mar2025 06:03:11.042] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[17Mar2025 06:03:12.165] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[17Mar2025 06:04:13.367] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/103596, l='ServerLevel[world]', x=3462.50, y=73.00, z=2213.50]
+[17Mar2025 06:04:24.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/103749, l='ServerLevel[world]', x=3419.50, y=73.00, z=2200.50]
+[17Mar2025 06:04:39.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Home Sweet Home]
+[17Mar2025 06:04:59.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104961, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[17Mar2025 06:05:43.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ACUA-Ws]
+[17Mar2025 06:05:44.068] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/105444, l='ServerLevel[world]', x=3421.50, y=73.00, z=2201.50]
+[17Mar2025 06:06:12.965] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/105581, l='ServerLevel[world]', x=3461.50, y=73.00, z=2211.50]
+[17Mar2025 06:06:22.064] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/105616, l='ServerLevel[world]', x=3374.50, y=73.00, z=2188.50]
+[17Mar2025 06:06:33.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vindicator
+[17Mar2025 06:06:33.686] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[17Mar2025 06:06:34.954] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[17Mar2025 06:06:52.216] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/106734, l='ServerLevel[world]', x=3212.50, y=74.00, z=2195.50]
+[17Mar2025 06:06:57.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vindicator
+[17Mar2025 06:06:57.250] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[17Mar2025 06:07:00.107] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[17Mar2025 06:07:29.765] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/107795, l='ServerLevel[world]', x=3224.50, y=70.00, z=2176.50]
+[17Mar2025 06:07:31.965] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/107807, l='ServerLevel[world]', x=3394.50, y=70.00, z=2181.50]
+[17Mar2025 06:07:54.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/108013, l='ServerLevel[world]', x=3350.50, y=74.00, z=2188.50]
+[17Mar2025 06:08:04.366] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/108071, l='ServerLevel[world]', x=3212.50, y=74.00, z=2199.50]
