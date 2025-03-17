@@ -1929,3 +1929,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Mar2025 05:10:11.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.40055138575507954
 [17Mar2025 05:10:39.031] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25944, l='ServerLevel[world]', x=2288.43, y=127.77, z=1691.51] died, message: 'Unemployed was slain by Froststalker'
 [17Mar2025 05:13:16.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[17Mar2025 05:18:08.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/17261, l='ServerLevel[world]', x=2279.70, y=123.00, z=1697.88] died, message: 'Nitwit was slain by Froststalker'
+[17Mar2025 05:18:25.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25942, l='ServerLevel[world]', x=2274.70, y=119.00, z=1682.99] died, message: 'Unemployed was slain by Froststalker'
+[17Mar2025 05:19:54.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/17523, l='ServerLevel[world]', x=2258.77, y=110.25, z=1688.75] died, message: 'Nitwit was slain by Froststalker'
+[17Mar2025 05:20:00.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31890, l='ServerLevel[world]', x=2287.57, y=126.92, z=1691.28] died, message: 'Unemployed was slain by Froststalker'
+[17Mar2025 05:20:43.164] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2636, y=-32, z=1622}
+[17Mar2025 05:25:27.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ACUA-Ws]
+[17Mar2025 05:25:49.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
+[17Mar2025 05:27:10.265] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2278, y=-10, z=2138}
+[17Mar2025 05:27:10.265] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2278, y=-10, z=2139}
