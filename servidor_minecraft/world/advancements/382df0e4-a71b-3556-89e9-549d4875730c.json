@@ -11257,15 +11257,51 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2025-03-18 03:20:54 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/get_rich_soil": {
     "criteria": {
       "get_rich_soil": "2025-03-18 02:57:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-18 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-18 03:20:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_organic_compost": {
     "criteria": {
       "place_organic_compost": "2025-03-18 02:57:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-03-18 03:20:48 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-03-18 03:20:26 +0000"
     },
     "done": true
   },

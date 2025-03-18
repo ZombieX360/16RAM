@@ -1810,3 +1810,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 03:13:45.590] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [18Mar2025 03:13:58.811] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
 [18Mar2025 03:20:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Dark Creator]
+[18Mar2025 03:25:40.511] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[18Mar2025 03:27:41.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Slugger
+[18Mar2025 03:27:41.419] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:27:43.070] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:28:15.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Slugger
+[18Mar2025 03:28:15.819] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:28:17.407] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:29:03.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68856, l='ServerLevel[world]', x=915.46, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[18Mar2025 03:29:43.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69092, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[18Mar2025 03:29:49.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69134, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'

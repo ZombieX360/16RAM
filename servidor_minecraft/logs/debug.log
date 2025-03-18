@@ -16923,3 +16923,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 03:17:57.713] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/61535, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@11b7]
 [18Mar2025 03:17:57.792] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/61535, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
 [18Mar2025 03:20:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Dark Creator]
+[18Mar2025 03:22:57.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 03:22:57.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 03:22:57.688] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/63814, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[18Mar2025 03:22:57.688] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/63814, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@11b7]
+[18Mar2025 03:22:57.769] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/63814, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[18Mar2025 03:23:45.611] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ACUA-Ws'/4535, l='ServerLevel[world]', x=1042.18, y=114.00, z=1644.81]
+[18Mar2025 03:25:40.511] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[18Mar2025 03:26:03.863] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ACUA-Ws'/4535, l='ServerLevel[world]', x=1018.00, y=101.00, z=1648.07], dimensionLocationPath overworld
+[18Mar2025 03:26:03.864] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ACUA-Ws'/4535, l='ServerLevel[world]', x=1018.00, y=101.00, z=1648.07] in list []
+[18Mar2025 03:27:41.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Slugger
+[18Mar2025 03:27:41.399] [Server thread/DEBUG] [tombstone/]: A new grave of the player ACUA-Ws was created at position [x:959, y:95, z:1652, dim:minecraft:overworld]
+[18Mar2025 03:27:41.418] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['ACUA-Ws'/4535, l='ServerLevel[world]', x=959.56, y=95.00, z=1652.23]
+[18Mar2025 03:27:41.419] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:27:42.931] [Server thread/DEBUG] [twilightforest/]: Player ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c) respawned and received items held in storage
+[18Mar2025 03:27:43.070] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:27:57.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 03:27:57.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 03:27:57.684] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/67029, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[18Mar2025 03:27:57.684] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/67029, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[18Mar2025 03:27:57.757] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/67029, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[18Mar2025 03:28:03.610] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ACUA-Ws'/4535, l='ServerLevel[world]', x=961.06, y=95.00, z=1652.84], dimensionLocationPath overworld
+[18Mar2025 03:28:03.610] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ACUA-Ws'/4535, l='ServerLevel[world]', x=961.06, y=95.00, z=1652.84] in list []
+[18Mar2025 03:28:15.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Slugger
+[18Mar2025 03:28:15.798] [Server thread/DEBUG] [tombstone/]: A new grave of the player ACUA-Ws was created at position [x:955, y:96, z:1656, dim:minecraft:overworld]
+[18Mar2025 03:28:15.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['ACUA-Ws'/4535, l='ServerLevel[world]', x=955.12, y=96.00, z=1656.54]
+[18Mar2025 03:28:15.819] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:28:17.305] [Server thread/DEBUG] [twilightforest/]: Player ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c) respawned and received items held in storage
+[18Mar2025 03:28:17.407] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:28:28.958] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ACUA-Ws'/4535, l='ServerLevel[world]', x=956.69, y=96.00, z=1654.82], dimensionLocationPath overworld
+[18Mar2025 03:28:28.959] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ACUA-Ws'/4535, l='ServerLevel[world]', x=956.69, y=96.00, z=1654.82] in list []
+[18Mar2025 03:29:03.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68856, l='ServerLevel[world]', x=915.46, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[18Mar2025 03:29:43.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69092, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[18Mar2025 03:29:49.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69134, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
