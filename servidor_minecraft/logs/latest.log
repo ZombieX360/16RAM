@@ -2735,3 +2735,142 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 06:22:27.436] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/soulsweaponry/entity/mobs/NightShade$AttackStates
 [18Mar2025 06:24:25.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has completed the challenge [Steeped in Strength]
 [18Mar2025 06:26:37.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Silvana Heartfire'/340874, l='ServerLevel[world]', x=242.30, y=71.00, z=-1498.90] died: Silvana Heartfire was slain by amigobuho360
+[18Mar2025 06:27:41.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=574, y=22, z=-1690}
+[18Mar2025 06:27:48.469] [Worker-Main-113/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[18Mar2025 06:27:55.120] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=672, y=-7, z=-1413}
+[18Mar2025 06:27:57.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=682, y=-44, z=-1572}
+[18Mar2025 06:27:59.882] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=734, y=29, z=-1541}
+[18Mar2025 06:28:05.981] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=779, y=-20, z=-1415}
+[18Mar2025 06:28:16.981] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=592, y=-49, z=-1636}
+[18Mar2025 06:28:17.360] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=611, y=-2, z=-1633}
+[18Mar2025 06:28:20.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=615, y=-4, z=-1673}
+[18Mar2025 06:28:20.731] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=707, y=8, z=-1672}
+[18Mar2025 06:28:22.635] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=686, y=8, z=-1690}
+[18Mar2025 06:28:23.573] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=627, y=16, z=-1699}
+[18Mar2025 06:28:24.732] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=712, y=-46, z=-1716}
+[18Mar2025 06:28:25.031] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=567, y=-15, z=-1719}
+[18Mar2025 06:28:37.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=748, y=-41, z=-1823}
+[18Mar2025 06:28:37.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=703, y=38, z=-1802}
+[18Mar2025 06:29:08.267] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=599, y=-16, z=-1346}
+[18Mar2025 06:29:25.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=648, y=-15, z=-1315}
+[18Mar2025 06:29:30.932] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=502, y=30, z=-1869}
+[18Mar2025 06:29:33.639] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=650, y=-24, z=-1874}
+[18Mar2025 06:29:35.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.42148203975239085
+[18Mar2025 06:29:46.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=913, y=-26, z=-1683}
+[18Mar2025 06:29:50.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=939, y=-18, z=-1600}
+[18Mar2025 06:29:52.597] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-74, y=-57, z=2568}
+[18Mar2025 06:29:53.421] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=769, y=-15, z=-1364}
+[18Mar2025 06:29:53.848] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=930, y=27, z=-1385}
+[18Mar2025 06:29:54.890] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=946, y=-11, z=-1388}
+[18Mar2025 06:29:56.859] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=879, y=-31, z=-1335}
+[18Mar2025 06:29:57.144] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=871, y=8, z=-1315}
+[18Mar2025 06:30:02.190] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=781, y=-40, z=-1276}
+[18Mar2025 06:30:05.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=932, y=-12, z=-1331}
+[18Mar2025 06:30:06.431] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=959, y=-47, z=-1317}
+[18Mar2025 06:30:09.432] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=921, y=-49, z=-1161}
+[18Mar2025 06:30:11.281] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=928, y=9, z=-1151}
+[18Mar2025 06:30:12.714] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=746, y=3, z=-1227}
+[18Mar2025 06:30:16.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[18Mar2025 06:30:18.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.9941692356908334
+[18Mar2025 06:30:19.376] [Worker-Main-359/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-54, y=-57, z=2551}
+[18Mar2025 06:30:19.384] [Worker-Main-359/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-56, y=-57, z=2551}
+[18Mar2025 06:30:20.031] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=987, y=-16, z=-1336}
+[18Mar2025 06:30:23.360] [Worker-Main-359/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-74, y=-57, z=2568}
+[18Mar2025 06:30:25.575] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=914, y=34, z=-1064}
+[18Mar2025 06:30:27.410] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1016, y=0, z=-1133}
+[18Mar2025 06:30:27.620] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=848, y=-1, z=-1041}
+[18Mar2025 06:30:28.245] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=994, y=20, z=-1031}
+[18Mar2025 06:30:28.732] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1046, y=30, z=-1030}
+[18Mar2025 06:30:29.158] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1033, y=-54, z=-1223}
+[18Mar2025 06:30:33.725] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=816, y=25, z=-923}
+[18Mar2025 06:30:57.818] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1187, y=-53, z=-468}
+[18Mar2025 06:31:13.815] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[18Mar2025 06:31:14.011] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1247, y=26, z=-1070}
+[18Mar2025 06:31:14.764] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1349, y=5, z=-1074}
+[18Mar2025 06:31:15.350] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1238, y=-13, z=-1087}
+[18Mar2025 06:31:15.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! 3.0779438152985676,-2.5271937749539006,-9.556757588452797
+[18Mar2025 06:31:15.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! 3.50143127410297,-2.8318717469494175,-10.935873418792426
+[18Mar2025 06:31:15.855] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1219, y=-25, z=-1099}
+[18Mar2025 06:31:22.068] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[18Mar2025 06:31:23.582] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=26, z=-1221}
+[18Mar2025 06:31:23.582] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=25, z=-1220}
+[18Mar2025 06:31:23.582] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=25, z=-1219}
+[18Mar2025 06:31:23.602] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[18Mar2025 06:31:25.669] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[18Mar2025 06:31:25.672] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-1227}
+[18Mar2025 06:31:25.696] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[18Mar2025 06:31:25.697] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[18Mar2025 06:31:28.069] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[18Mar2025 06:31:28.069] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[18Mar2025 06:31:28.070] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
+[18Mar2025 06:31:28.238] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[18Mar2025 06:31:28.253] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[18Mar2025 06:31:28.253] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[18Mar2025 06:31:28.265] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
+[18Mar2025 06:31:28.266] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
+[18Mar2025 06:31:28.266] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
+[18Mar2025 06:31:29.856] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[18Mar2025 06:31:30.023] [Worker-Main-29/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[18Mar2025 06:31:30.028] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[18Mar2025 06:31:30.043] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[18Mar2025 06:31:30.323] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1245}
+[18Mar2025 06:31:30.323] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1244}
+[18Mar2025 06:31:30.323] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1243}
+[18Mar2025 06:31:30.874] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=25, z=-1226}
+[18Mar2025 06:31:31.059] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
+[18Mar2025 06:31:33.178] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=26, z=-1221}
+[18Mar2025 06:31:33.178] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=25, z=-1220}
+[18Mar2025 06:31:33.178] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=25, z=-1219}
+[18Mar2025 06:31:34.051] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=28, z=-1201}
+[18Mar2025 06:31:34.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1144, y=63, z=-1231}
+[18Mar2025 06:31:34.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1164, y=-1, z=-1236}
+[18Mar2025 06:31:35.514] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1246}
+[18Mar2025 06:31:35.514] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1247}
+[18Mar2025 06:31:35.514] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1246}
+[18Mar2025 06:31:35.515] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1247}
+[18Mar2025 06:31:35.529] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[18Mar2025 06:31:35.537] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=27, z=-1223}
+[18Mar2025 06:31:35.589] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[18Mar2025 06:31:35.640] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-1227}
+[18Mar2025 06:31:35.847] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-1198}
+[18Mar2025 06:31:35.848] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=26, z=-1198}
+[18Mar2025 06:31:37.932] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1429, y=-45, z=-1250}
+[18Mar2025 06:31:42.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/354709, l='ServerLevel[world]', x=1193.20, y=117.00, z=-1195.50] died, message: 'Unemployed suffocated in a wall'
+[18Mar2025 06:32:01.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws withered away whilst fighting Nightmare Stalker
+[18Mar2025 06:32:01.524] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 06:32:02.822] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 06:32:03.228] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=832, y=-35, z=-1782}
+[18Mar2025 06:32:36.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Nightmare Stalker
+[18Mar2025 06:32:36.225] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 06:32:37.858] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 06:33:18.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws suffocated in a wall whilst fighting Corpse Fish
+[18Mar2025 06:33:18.118] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 06:33:19.711] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 06:34:37.230] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1241}
+[18Mar2025 06:34:37.241] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[18Mar2025 06:34:37.249] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
+[18Mar2025 06:34:37.284] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=25, z=-1221}
+[18Mar2025 06:34:39.243] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-211, y=27, z=-1224}
+[18Mar2025 06:34:39.957] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1298, y=-45, z=-1296}
+[18Mar2025 06:34:42.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved too quickly! -1.6020372238162963,-10.773880795387157,0.7454728596335372
+[18Mar2025 06:34:47.263] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1075, y=-20, z=-1322}
+[18Mar2025 06:34:47.951] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1336, y=12, z=-1338}
+[18Mar2025 06:34:48.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1010, y=-11, z=-1302}
+[18Mar2025 06:34:50.421] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1265, y=-22, z=-1347}
+[18Mar2025 06:34:56.870] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1225, y=24, z=-1405}
+[18Mar2025 06:34:58.875] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1240, y=-41, z=-1381}
+[18Mar2025 06:34:59.639] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1367, y=-3, z=-1306}
+[18Mar2025 06:34:59.869] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1375, y=11, z=-1329}
+[18Mar2025 06:35:00.979] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1391, y=4, z=-1401}
+[18Mar2025 06:35:03.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1346, y=31, z=-1417}
+[18Mar2025 06:35:03.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.9571413049618513
+[18Mar2025 06:35:08.376] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1425, y=1, z=-1355}
+[18Mar2025 06:35:13.598] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1345, y=-44, z=-1457}
+[18Mar2025 06:35:16.331] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1479, y=36, z=-1329}
+[18Mar2025 06:35:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
+[18Mar2025 06:35:33.981] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1345, y=-19, z=-1518}
+[18Mar2025 06:35:34.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1383, y=-13, z=-1500}
+[18Mar2025 06:36:16.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/363400, l='ServerLevel[world]', x=1345.30, y=137.00, z=-1318.00] died: Ewart the Cold was shot by ACUA-Ws
+[18Mar2025 06:36:25.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws burned to death
+[18Mar2025 06:36:25.706] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 06:36:27.038] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
