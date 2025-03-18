@@ -416,6 +416,8 @@
       "grassland": "2024-12-25 00:03:00 +0000",
       "prairie": "2024-12-24 23:08:42 +0000",
       "snowy_fir_clearing": "2024-12-23 22:05:05 +0000",
+      "snowy_coniferous_forest": "2025-03-18 03:49:32 +0000",
+      "tundra": "2025-03-18 03:50:16 +0000",
       "gravel_beach": "2024-12-23 22:02:18 +0000",
       "glowing_grotto": "2024-12-25 03:52:29 +0000",
       "rainforest": "2025-01-04 06:58:28 +0000",
@@ -11258,6 +11260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-03-18 03:52:15 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_3": "2025-03-18 03:20:54 +0000"
@@ -11276,6 +11284,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-03-18 03:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-03-18 03:52:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-03-18 03:51:45 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
       "ex": "2025-03-18 03:41:00 +0000"
@@ -11285,6 +11311,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-03-18 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-03-18 03:52:15 +0000"
     },
     "done": true
   },
@@ -11300,9 +11332,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-03-18 03:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-03-18 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-03-18 03:52:15 +0000"
     },
     "done": true
   },
@@ -11318,15 +11362,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-18 04:00:11 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-03-18 03:43:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-03-18 04:00:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/blue_ice": {
     "criteria": {
       "has_result": "2025-03-18 03:41:53 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/brick": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:52:15 +0000"
     },
     "done": true
   },

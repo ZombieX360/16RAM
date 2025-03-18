@@ -1960,3 +1960,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 03:52:11.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2940, y=4, z=829}
 [18Mar2025 03:52:12.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3086, y=19, z=826}
 [18Mar2025 03:52:14.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2880, y=15, z=1189}
+[18Mar2025 03:52:59.234] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3149, y=-31, z=899}
+[18Mar2025 03:53:04.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was burnt to a crisp whilst fighting Revenant
+[18Mar2025 03:53:04.483] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:53:05.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2890, y=31, z=794}
+[18Mar2025 03:53:06.465] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:53:07.275] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3107, y=-20, z=811}
+[18Mar2025 03:53:07.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3036, y=-49, z=1191}
+[18Mar2025 03:53:25.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Revenant
+[18Mar2025 03:53:25.116] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:53:26.488] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:54:07.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was burnt to a crisp whilst fighting Cave Spider
+[18Mar2025 03:54:07.067] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:54:09.141] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:54:39.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Cave Spider
+[18Mar2025 03:54:39.162] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:54:40.193] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2907, y=5, z=1205}
+[18Mar2025 03:54:40.334] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:55:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Cave Spider
+[18Mar2025 03:55:23.770] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:55:25.288] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:56:24.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Cave Spider
+[18Mar2025 03:56:24.162] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:56:25.587] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:57:00.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Cave Spider
+[18Mar2025 03:57:00.374] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 03:57:02.538] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 03:59:52.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[18Mar2025 04:02:28.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vindicator
+[18Mar2025 04:02:28.072] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:02:29.511] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:02:40.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vindicator
+[18Mar2025 04:02:40.816] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:02:42.288] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
