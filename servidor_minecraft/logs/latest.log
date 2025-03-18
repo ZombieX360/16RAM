@@ -2097,3 +2097,83 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 05:30:22.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Skeleton
 [18Mar2025 05:30:22.420] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [18Mar2025 05:30:24.088] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 05:40:25.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/100.72.107.85:53929] logged in with entity id 273315 at (938.4857185758257, 96.0, 1640.3547333198103)
+[18Mar2025 05:40:25.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[18Mar2025 05:40:25.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[18Mar2025 05:40:25.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[18Mar2025 05:40:25.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[18Mar2025 05:40:25.191] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[18Mar2025 05:40:25.194] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[18Mar2025 05:40:25.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[18Mar2025 05:40:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[18Mar2025 05:40:25.304] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[18Mar2025 05:40:26.965] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[18Mar2025 05:41:57.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -11.748136407709126,8.98533754125674,11.354145900549156
+[18Mar2025 05:41:57.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -11.240455860179054,8.65547744001708,10.799749976603835
+[18Mar2025 05:41:57.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -10.719330259084245,8.303208034296375,10.245809362981618
+[18Mar2025 05:41:57.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -10.185809764606347,7.934009334500246,9.691866126263449
+[18Mar2025 05:41:57.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -9.640803501340315,7.5448342581416625,9.137502546742098
+[18Mar2025 05:41:57.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -9.083318610048536,7.138201912920579,8.584144955562124
+[18Mar2025 05:41:57.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -8.505173765743166,6.721076002062205,8.03912273516994
+[18Mar2025 05:41:57.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -7.900463467114832,6.298476113713036,7.50771767895003
+[18Mar2025 05:41:57.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -7.269739942051501,5.873332354981585,6.990540176102741
+[18Mar2025 05:41:57.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -6.615589665932703,5.446102248062374,6.486446962315995
+[18Mar2025 05:43:42.630] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1384, y=-45, z=778}
+[18Mar2025 05:43:51.664] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1497, y=23, z=748}
+[18Mar2025 05:43:51.664] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1499, y=23, z=748}
+[18Mar2025 05:43:55.300] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1557, y=-22, z=729}
+[18Mar2025 05:43:55.300] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1557, y=-22, z=731}
+[18Mar2025 05:43:55.532] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-815}
+[18Mar2025 05:43:55.833] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=27, z=-818}
+[18Mar2025 05:43:55.833] [Worker-Main-114/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=27, z=-818}
+[18Mar2025 05:43:57.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 7.651755023240412,1.1376645352688968,-6.8660988947352735
+[18Mar2025 05:43:57.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 8.500566931612639,1.24440253401157,-7.62935622208272
+[18Mar2025 05:43:57.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 9.349259975673249,1.345606337602959,-8.39274307245023
+[18Mar2025 05:43:58.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -7.469528074977461,-1.166961668747902,6.728015300886
+[18Mar2025 05:43:58.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! -8.256895166833374,-1.276987339569203,7.437607834795131
+[18Mar2025 05:43:59.311] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1557, y=-22, z=729}
+[18Mar2025 05:43:59.971] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1916, y=-37, z=711}
+[18Mar2025 05:44:03.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/277344, l='ServerLevel[world]', x=1714.38, y=108.50, z=903.86] died, message: 'Unemployed was shot by ACUA-Ws'
+[18Mar2025 05:44:05.934] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-196, y=27, z=-819}
+[18Mar2025 05:44:05.934] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-815}
+[18Mar2025 05:44:10.282] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1860, y=-14, z=660}
+[18Mar2025 05:44:11.570] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1800, y=-21, z=665}
+[18Mar2025 05:44:12.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1737, y=-27, z=645}
+[18Mar2025 05:44:12.621] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/277345, l='ServerLevel[world]', x=1711.65, y=106.00, z=915.37] died, message: 'Unemployed was shot by ACUA-Ws'
+[18Mar2025 05:44:13.238] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1671, y=-32, z=632}
+[18Mar2025 05:44:13.458] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1828, y=-52, z=611}
+[18Mar2025 05:44:13.482] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1752, y=-8, z=636}
+[18Mar2025 05:44:15.932] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1829, y=-52, z=611}
+[18Mar2025 05:44:17.520] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1771, y=-1, z=585}
+[18Mar2025 05:44:19.319] [Worker-Main-113/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1962, y=-36, z=625}
+[18Mar2025 05:44:21.269] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1959, y=-36, z=622}
+[18Mar2025 05:44:21.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1771, y=-1, z=585}
+[18Mar2025 05:44:22.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/277340, l='ServerLevel[world]', x=1709.44, y=107.00, z=901.28] died, message: 'Unemployed was shot by ACUA-Ws'
+[18Mar2025 05:44:26.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/277274, l='ServerLevel[world]', x=1702.45, y=109.00, z=894.09] died, message: 'Unemployed was shot by ACUA-Ws'
+[18Mar2025 05:44:26.691] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1885, y=16, z=565}
+[18Mar2025 05:44:26.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/277276, l='ServerLevel[world]', x=1703.36, y=109.00, z=893.48] died, message: 'Nitwit was shot by ACUA-Ws'
+[18Mar2025 05:44:31.358] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/277275, l='ServerLevel[world]', x=1710.00, y=106.94, z=880.62] died, message: 'Unemployed was shot by ACUA-Ws'
+[18Mar2025 05:44:31.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Mastery 1]
+[18Mar2025 05:44:31.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Crime in Town]
+[18Mar2025 05:44:32.214] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/277269, l='ServerLevel[world]', x=1709.25, y=106.94, z=880.23] died, message: 'Unemployed was shot by ACUA-Ws'
+[18Mar2025 05:44:39.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2061, y=2, z=539}
+[18Mar2025 05:44:53.053] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1767, y=29, z=431}
+[18Mar2025 05:44:53.132] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1756, y=-26, z=585}
+[18Mar2025 05:44:56.682] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2014, y=-5, z=415}
+[18Mar2025 05:44:56.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2079, y=-28, z=414}
+[18Mar2025 05:44:57.171] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1791, y=-26, z=429}
+[18Mar2025 05:44:58.394] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2082, y=-2, z=498}
+[18Mar2025 05:44:58.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/277253, l='ServerLevel[world]', x=1703.49, y=93.00, z=847.30] died, message: 'Unemployed was shot by ACUA-Ws'
+[18Mar2025 05:44:58.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1732, y=-2, z=585}
+[18Mar2025 05:45:00.684] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2103, y=-23, z=772}
+[18Mar2025 05:45:02.915] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2096, y=-29, z=430}
+[18Mar2025 05:45:03.127] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-813}
+[18Mar2025 05:45:03.128] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-813}
+[18Mar2025 05:45:03.183] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2098, y=11, z=432}
+[18Mar2025 05:45:03.335] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2104, y=14, z=450}
+[18Mar2025 05:45:03.379] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=27, z=-818}
+[18Mar2025 05:45:03.380] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=27, z=-818}
+[18Mar2025 05:45:03.380] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-212, y=30, z=-818}
+[18Mar2025 05:45:03.381] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=27, z=-813}
+[18Mar2025 05:45:04.329] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-817}
+[18Mar2025 05:45:07.232] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2121, y=18, z=470}
