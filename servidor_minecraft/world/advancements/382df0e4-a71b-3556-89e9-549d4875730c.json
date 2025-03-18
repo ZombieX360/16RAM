@@ -7894,7 +7894,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-01-08 02:46:15 +0000"
+      "minecraft:cow": "2025-01-08 02:46:15 +0000",
+      "minecraft:wolf": "2025-03-18 06:16:51 +0000"
     },
     "done": false
   },
@@ -11316,6 +11317,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-03-18 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-18 06:22:38 +0000"
     },
     "done": true
   },

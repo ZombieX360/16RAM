@@ -11208,9 +11208,10 @@
   },
   "soulsweapons:draugr_boss": {
     "criteria": {
+      "soulsweapons:draugr_boss": "2025-03-18 06:22:27 +0000",
       "soulsweapons:night_shade": "2025-01-11 05:51:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "soulsweapons:recipes/combat/darkmoon_longbow": {
     "criteria": {
@@ -14220,6 +14221,24 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-03-18 05:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 06:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 06:18:04 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:shakeand_mix": {
+    "criteria": {
+      "shakeand_mix_0": "2025-03-18 06:15:28 +0000"
     },
     "done": true
   },

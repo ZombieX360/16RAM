@@ -2724,3 +2724,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 06:16:21.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-65, y=1, z=-1700}
 [18Mar2025 06:16:22.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [18Mar2025 06:16:22.441] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-26, y=37, z=-1714}
+[18Mar2025 06:16:31.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-33, y=29, z=-1740}
+[18Mar2025 06:16:32.675] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-49, y=39, z=-1751}
+[18Mar2025 06:16:34.650] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=82, y=29, z=-1761}
+[18Mar2025 06:16:57.910] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/329331, l='ServerLevel[world]', x=303.33, y=66.00, z=-1536.65] was struck by lightning LightningBolt['Lightning Bolt'/334203, l='ServerLevel[world]', x=303.79, y=67.00, z=-1533.38].
+[18Mar2025 06:16:57.910] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/329334, l='ServerLevel[world]', x=302.13, y=66.38, z=-1533.58] was struck by lightning LightningBolt['Lightning Bolt'/334203, l='ServerLevel[world]', x=303.79, y=67.00, z=-1533.38].
+[18Mar2025 06:19:58.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[18Mar2025 06:22:13.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
+[18Mar2025 06:22:27.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [Restless Sleepwalker]
+[18Mar2025 06:22:27.436] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/soulsweaponry/entity/mobs/NightShade$AttackStates
+[18Mar2025 06:24:25.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has completed the challenge [Steeped in Strength]
+[18Mar2025 06:26:37.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Silvana Heartfire'/340874, l='ServerLevel[world]', x=242.30, y=71.00, z=-1498.90] died: Silvana Heartfire was slain by amigobuho360
