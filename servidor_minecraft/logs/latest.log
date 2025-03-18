@@ -2091,3 +2091,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 05:11:57.717] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [18Mar2025 05:11:58.888] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
 [18Mar2025 05:15:18.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[18Mar2025 05:27:33.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/207921, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[18Mar2025 05:27:41.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved wrongly! 0.5233067795193165
+[18Mar2025 05:27:41.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved wrongly! 0.3945443746424644
+[18Mar2025 05:30:22.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Skeleton
+[18Mar2025 05:30:22.420] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 05:30:24.088] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
