@@ -2060,3 +2060,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 04:30:42.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was killed by Evoker using magic
 [18Mar2025 04:30:42.209] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [18Mar2025 04:30:43.795] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[18Mar2025 04:36:32.903] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:36:38.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Vex
+[18Mar2025 04:36:38.957] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[18Mar2025 04:36:40.628] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[18Mar2025 04:36:42.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vex
+[18Mar2025 04:36:42.497] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:36:43.913] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:39:14.973] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cyclops/cyclopscore/algorithm/Dimension
+[18Mar2025 04:40:53.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
