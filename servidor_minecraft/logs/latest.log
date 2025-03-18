@@ -2071,3 +2071,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 04:40:53.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
 [18Mar2025 04:45:06.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Spectral Guardian]
 [18Mar2025 04:54:40.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/182394, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[18Mar2025 05:05:27.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[18Mar2025 05:05:27.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[18Mar2025 05:06:48.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 10.291035575044702,1.4317031288044006,18.006100722344627
+[18Mar2025 05:06:48.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 9.503347396792492,0.904703566047715,17.4098090563989
+[18Mar2025 05:06:48.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 8.77828829349994,0.381605311830711,16.788099320473293
+[18Mar2025 05:06:48.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 8.116597188119954,0.0,16.15530112271449
+[18Mar2025 05:06:48.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 7.5123154605606715,0.0,15.519604463046335
+[18Mar2025 05:06:48.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 6.959273687035989,0.0,14.886953799482626
+[18Mar2025 05:06:48.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 6.451806155073996,0.0,14.261792568604506
+[18Mar2025 05:06:48.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 5.984834484820226,0.0,13.647419793055406
+[18Mar2025 05:06:48.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 5.553857082144077,0.0,13.046247580594809
+[18Mar2025 05:06:48.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved too quickly! 5.154911820349184,0.0,12.46000037780982
+[18Mar2025 05:09:06.935] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/197237, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[18Mar2025 05:10:17.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was doomed to fall by Royal Zombie
+[18Mar2025 05:10:17.671] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 05:10:19.008] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 05:11:57.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Huntsman
+[18Mar2025 05:11:57.717] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 05:11:58.888] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 05:15:18.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
