@@ -391,6 +391,7 @@
       "muskeg": "2025-03-16 02:08:15 +0000",
       "woodland": "2025-01-04 07:18:13 +0000",
       "shrubland": "2024-12-25 18:51:52 +0000",
+      "snowblossom_grove": "2025-03-18 05:49:35 +0000",
       "rocky_shrubland": "2024-12-24 23:57:41 +0000",
       "scrubland": "2025-01-04 05:57:08 +0000",
       "erupting_inferno": "2024-12-25 18:35:54 +0000",
@@ -406,6 +407,7 @@
       "coniferous_forest": "2024-12-23 21:49:35 +0000",
       "spider_nest": "2024-12-24 23:13:16 +0000",
       "wasteland": "2025-01-04 06:43:53 +0000",
+      "old_growth_dead_forest": "2025-03-18 05:51:06 +0000",
       "redwood_forest": "2025-01-04 05:54:20 +0000",
       "seasonal_forest": "2024-12-23 21:55:49 +0000",
       "volcano": "2025-01-04 06:44:34 +0000",
@@ -422,6 +424,7 @@
       "glowing_grotto": "2024-12-25 03:52:29 +0000",
       "rainforest": "2025-01-04 06:58:28 +0000",
       "crag": "2025-01-04 05:53:46 +0000",
+      "snowy_maple_woods": "2025-03-18 05:51:13 +0000",
       "ominous_woods": "2024-12-23 22:39:00 +0000"
     },
     "done": false
@@ -11334,6 +11337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-18 05:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-03-18 03:42:18 +0000"
@@ -11355,6 +11364,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-03-18 03:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-03-18 05:49:56 +0000"
     },
     "done": true
   },
@@ -11382,9 +11397,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-03-18 05:49:56 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-03-18 04:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-03-18 05:51:45 +0000"
     },
     "done": true
   },
@@ -11403,6 +11430,12 @@
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-03-18 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-03-18 05:44:31 +0000"
     },
     "done": true
   },
@@ -11430,9 +11463,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-03-18 05:49:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/blue_ice": {
     "criteria": {
       "has_result": "2025-03-18 03:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-03-18 05:49:56 +0000"
     },
     "done": true
   },
@@ -11445,6 +11490,12 @@
   "mcwwindows:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-03-18 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/crime_in_town": {
+    "criteria": {
+      "coded_trigger": "2025-03-18 05:44:31 +0000"
     },
     "done": true
   },

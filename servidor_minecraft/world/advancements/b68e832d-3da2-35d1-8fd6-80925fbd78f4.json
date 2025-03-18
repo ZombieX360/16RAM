@@ -609,10 +609,12 @@
       "hot_springs": "2025-01-10 04:59:33 +0000",
       "spider_nest": "2025-01-01 04:26:11 +0000",
       "wasteland": "2025-01-04 06:43:46 +0000",
+      "old_growth_dead_forest": "2025-03-18 05:48:11 +0000",
       "redwood_forest": "2025-01-04 05:54:03 +0000",
       "visceral_heap": "2025-03-16 07:42:44 +0000",
       "dune_beach": "2024-12-30 01:14:25 +0000",
       "seasonal_forest": "2024-12-23 21:54:16 +0000",
+      "auroral_garden": "2025-03-18 05:47:21 +0000",
       "volcano": "2025-01-04 06:44:28 +0000",
       "pasture": "2025-01-04 06:15:59 +0000",
       "rocky_rainforest": "2025-01-08 02:54:28 +0000",
@@ -628,6 +630,7 @@
       "gravel_beach": "2024-12-29 22:59:34 +0000",
       "rainforest": "2025-01-04 06:58:20 +0000",
       "crag": "2025-01-04 05:53:16 +0000",
+      "snowy_maple_woods": "2025-03-18 05:48:16 +0000",
       "ominous_woods": "2025-03-16 02:37:27 +0000"
     },
     "done": false
@@ -14187,6 +14190,12 @@
   "tombstone:adventure/use_guard": {
     "criteria": {
       "coded_trigger": "2025-03-18 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/snow_bricks": {
+    "criteria": {
+      "has_snow_block": "2025-03-18 05:44:52 +0000"
     },
     "done": true
   },
