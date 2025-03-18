@@ -2023,3 +2023,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 04:13:06.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
 [18Mar2025 04:13:06.435] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
 [18Mar2025 04:13:08.070] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[18Mar2025 04:13:29.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18Mar2025 04:13:47.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/128870, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[18Mar2025 04:13:57.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13173ms or 263 ticks behind
+[18Mar2025 04:14:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ACUA-Ws]
+[18Mar2025 04:14:17.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4972ms or 99 ticks behind
+[18Mar2025 04:16:50.792] [Worker-Main-88/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[18Mar2025 04:16:51.174] [Worker-Main-88/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[18Mar2025 04:17:07.915] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:17:15.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vex
+[18Mar2025 04:17:15.412] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:17:17.028] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:18:25.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[18Mar2025 04:18:31.111] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:19:09.555] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=2945, y=72, z=995} as the loot table 'dungeons_arise:chests/illager_fortress_small' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[18Mar2025 04:19:26.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vex
+[18Mar2025 04:19:26.458] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:19:28.137] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:20:35.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
+[18Mar2025 04:20:40.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vex
+[18Mar2025 04:20:40.457] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:20:41.723] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:24:11.982] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[18Mar2025 04:25:11.808] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:25:32.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vex
+[18Mar2025 04:25:32.362] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:25:33.588] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:26:51.731] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=2945, y=72, z=995} as the loot table 'dungeons_arise:chests/illager_fortress_small' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[18Mar2025 04:28:14.193] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=2944, y=72, z=1026} as the loot table 'dungeons_arise:chests/illager_fortress_small' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[18Mar2025 04:28:15.235] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3049, y=-25, z=1229}
+[18Mar2025 04:29:06.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[18Mar2025 04:29:24.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was blown up by Skeleton Creeper
+[18Mar2025 04:29:24.220] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[18Mar2025 04:29:27.178] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[18Mar2025 04:30:02.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Big Boy]
+[18Mar2025 04:30:42.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was killed by Evoker using magic
+[18Mar2025 04:30:42.209] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[18Mar2025 04:30:43.795] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.

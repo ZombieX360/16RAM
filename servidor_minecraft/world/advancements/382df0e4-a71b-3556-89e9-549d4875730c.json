@@ -11334,6 +11334,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-03-18 04:32:45 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/acacia": {
     "criteria": {
       "has_planks": "2025-03-18 03:20:26 +0000"
@@ -11364,15 +11370,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-03-18 04:32:45 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-03-18 04:04:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-03-18 04:32:46 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-03-18 03:20:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-03-18 04:23:52 +0000"
     },
     "done": true
   },
