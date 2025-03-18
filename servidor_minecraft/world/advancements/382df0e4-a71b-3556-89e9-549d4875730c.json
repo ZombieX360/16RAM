@@ -11270,9 +11270,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-03-18 03:42:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-03-18 03:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-03-18 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-18 03:42:18 +0000"
     },
     "done": true
   },
@@ -11297,6 +11315,18 @@
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-03-18 03:20:48 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-03-18 03:43:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_result": "2025-03-18 03:41:53 +0000"
     },
     "done": true
   },
