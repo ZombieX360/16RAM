@@ -1993,3 +1993,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Mar2025 04:02:40.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vindicator
 [18Mar2025 04:02:40.816] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [18Mar2025 04:02:42.288] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:03:14.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Where Is The Stone Pen?]
+[18Mar2025 04:04:05.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vindicator
+[18Mar2025 04:04:05.014] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:04:06.939] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:04:43.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has completed the challenge [Village Defender]
+[18Mar2025 04:05:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vindicator
+[18Mar2025 04:05:06.162] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:05:07.689] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:06:23.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vindicator
+[18Mar2025 04:06:23.458] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:06:24.736] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:09:28.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was killed by Evoker using magic
+[18Mar2025 04:09:28.305] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:09:29.687] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:11:56.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Postmortal]
+[18Mar2025 04:11:56.207] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:11:57.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Vex
+[18Mar2025 04:11:57.662] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[18Mar2025 04:11:59.026] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[18Mar2025 04:13:06.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/100.72.107.85:53463] logged in with entity id 127890 at (920.6302841404353, 97.0, 1644.6098933710396)
+[18Mar2025 04:13:06.386] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[18Mar2025 04:13:06.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[18Mar2025 04:13:06.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[18Mar2025 04:13:06.388] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[18Mar2025 04:13:06.390] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[18Mar2025 04:13:06.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[18Mar2025 04:13:06.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[18Mar2025 04:13:06.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[18Mar2025 04:13:06.435] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[18Mar2025 04:13:08.070] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
