@@ -1750,3 +1750,102 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 06:24:49.787] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1121, y=-31, z=-1492}
 [23Mar2025 06:25:14.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [23Mar2025 06:25:14.188] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[23Mar2025 06:25:56.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws fell from a high place
+[23Mar2025 06:25:56.581] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[23Mar2025 06:25:56.587] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[23Mar2025 06:25:56.597] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Mar2025 06:25:58.337] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Mar2025 06:25:59.267] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[23Mar2025 06:26:00.222] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[23Mar2025 06:26:04.684] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/furniture/refurbished/platform/services/IPlatformHelper$Platform
+[23Mar2025 06:26:04.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/furniture/refurbished/electricity/Connection$Node$Status
+[23Mar2025 06:26:04.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/furniture/refurbished/blockentity/IProcessingBlock$EnergyMode
+[23Mar2025 06:26:06.864] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlockEntity$CartMovementMode
+[23Mar2025 06:26:08.645] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[23Mar2025 06:26:11.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/entity/AbstractMerchant$TradeType
+[23Mar2025 06:26:11.341] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemLollipop$ModelColor
+[23Mar2025 06:26:24.421] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[23Mar2025 06:26:24.422] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[23Mar2025 06:26:24.426] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[23Mar2025 06:26:38.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[23Mar2025 06:27:04.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [A Throwaway Joke]
+[23Mar2025 06:27:41.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/1628, l='ServerLevel[world]', x=1258.78, y=146.18, z=-1263.54] died, message: 'Mason was shot by ACUA-Ws'
+[23Mar2025 06:31:53.956] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[23Mar2025 06:31:54.200] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/1811, l='ServerLevel[world]', x=1205.72, y=74.25, z=-1257.24] died, message: 'Mason burned to death'
+[23Mar2025 06:32:16.362] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[23Mar2025 06:32:19.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[23Mar2025 06:32:47.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['Evil Chicken'/3309, l='ServerLevel[world]', x=1186.89, y=74.00, z=-1259.15] died: Evil Chicken was slain by amigobuho360
+[23Mar2025 06:32:55.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved wrongly! 0.4514126704418686
+[23Mar2025 06:33:05.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[23Mar2025 06:33:14.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by ACUA-Ws
+[23Mar2025 06:33:14.780] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Mar2025 06:33:17.364] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[23Mar2025 06:33:17.371] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/tunnel/BrassTunnelBlockEntity$SelectionMode
+[23Mar2025 06:33:17.377] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
+[23Mar2025 06:33:17.393] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[23Mar2025 06:33:17.394] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[23Mar2025 06:33:17.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/sideconfig/ConfigurationType
+[23Mar2025 06:33:17.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[23Mar2025 06:33:17.543] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/funnel/FunnelBlockEntity$Mode
+[23Mar2025 06:33:17.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/item/ItemHelper$ExtractionCountMode
+[23Mar2025 06:33:17.556] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[23Mar2025 06:33:17.559] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[23Mar2025 06:33:17.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/EnergyContainerMachineBlockEntity$ChargeSlotType
+[23Mar2025 06:33:17.786] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/processing/burner/BlazeBurnerBlockEntity$FuelType
+[23Mar2025 06:33:18.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/WindmillBearingBlockEntity$RotationDirection
+[23Mar2025 06:33:18.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/mechanicalArm/ArmBlockEntity$SelectionMode
+[23Mar2025 06:33:50.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/3307, l='ServerLevel[world]', x=1144.11, y=63.06, z=-1232.77] died, message: 'Nitwit was slain by ACUA-Ws'
+[23Mar2025 06:33:58.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/3295, l='ServerLevel[world]', x=1132.30, y=66.73, z=-1240.31] died, message: 'Toolsmith was slain by ACUA-Ws'
+[23Mar2025 06:33:59.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3297, l='ServerLevel[world]', x=1143.70, y=65.00, z=-1230.30] died, message: 'Unemployed suffocated in a wall'
+[23Mar2025 06:34:47.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Crafting a New Look]
+[23Mar2025 06:34:58.655] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[23Mar2025 06:35:03.725] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1085, y=-47, z=-1511}
+[23Mar2025 06:35:24.060] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1080, y=-47, z=-1521}
+[23Mar2025 06:35:24.233] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1111, y=23, z=-1523}
+[23Mar2025 06:35:47.561] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1009, y=23, z=-1581}
+[23Mar2025 06:36:13.385] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1128, y=34, z=-1632}
+[23Mar2025 06:36:21.890] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1193, y=9, z=-1592}
+[23Mar2025 06:36:22.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1199, y=-19, z=-1582}
+[23Mar2025 06:36:38.795] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[23Mar2025 06:36:38.796] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[23Mar2025 06:36:38.796] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[23Mar2025 06:36:38.796] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[23Mar2025 06:36:39.535] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[23Mar2025 06:36:39.536] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[23Mar2025 06:36:39.536] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[23Mar2025 06:36:39.536] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[23Mar2025 06:36:39.546] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[23Mar2025 06:36:39.546] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[23Mar2025 06:36:39.547] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[23Mar2025 06:36:39.547] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[23Mar2025 06:36:39.557] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[23Mar2025 06:36:39.558] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[23Mar2025 06:36:39.558] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[23Mar2025 06:36:39.558] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[23Mar2025 06:36:39.566] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[23Mar2025 06:36:39.566] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[23Mar2025 06:36:39.566] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[23Mar2025 06:36:39.567] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[23Mar2025 06:36:39.645] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[23Mar2025 06:36:39.645] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[23Mar2025 06:36:39.646] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[23Mar2025 06:36:39.646] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[23Mar2025 06:36:40.101] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[23Mar2025 06:36:40.102] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[23Mar2025 06:36:40.102] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[23Mar2025 06:36:40.102] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[23Mar2025 06:36:40.197] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[23Mar2025 06:36:40.197] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[23Mar2025 06:36:40.198] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[23Mar2025 06:36:40.198] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[23Mar2025 06:36:40.318] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[23Mar2025 06:36:40.319] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[23Mar2025 06:36:40.319] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[23Mar2025 06:36:40.319] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[23Mar2025 06:36:40.516] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[23Mar2025 06:36:41.121] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[23Mar2025 06:36:41.811] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[23Mar2025 06:36:41.811] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[23Mar2025 06:36:41.811] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[23Mar2025 06:36:41.811] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[23Mar2025 06:36:49.231] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1378, y=-50, z=-1621}

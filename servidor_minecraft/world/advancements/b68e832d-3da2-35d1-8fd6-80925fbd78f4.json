@@ -14195,87 +14195,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "ecologics:recipes/ecologics/snow_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 06:41:40 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-03-18 06:39:45 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
-    "criteria": {
-      "has_white_lavender": "2025-03-18 05:56:25 +0000"
+      "has_snow_block": "2025-03-18 05:44:52 +0000"
     },
     "done": true
   },
@@ -14285,9 +14207,15 @@
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/snow_bricks": {
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
-      "has_snow_block": "2025-03-18 05:44:52 +0000"
+      "has_sunflower": "2025-03-18 05:56:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
+    "criteria": {
+      "has_white_lavender": "2025-03-18 05:56:25 +0000"
     },
     "done": true
   },
@@ -14297,9 +14225,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+  "born_in_chaos_v1:shakeand_mix": {
     "criteria": {
-      "has_sunflower": "2025-03-18 05:56:18 +0000"
+      "shakeand_mix_0": "2025-03-18 06:15:28 +0000"
     },
     "done": true
   },
@@ -14315,9 +14243,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:shakeand_mix": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "shakeand_mix_0": "2025-03-18 06:15:28 +0000"
+      "has_stone_slab": "2025-03-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 06:23:57 +0000"
     },
     "done": true
   },
