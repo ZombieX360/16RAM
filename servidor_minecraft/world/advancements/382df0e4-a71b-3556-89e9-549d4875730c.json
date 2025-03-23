@@ -11768,6 +11768,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-23 17:11:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-03-23 16:11:28 +0000"
@@ -11851,6 +11857,12 @@
       "has_blue_dye": "2025-03-23 16:11:28 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-23 17:10:30 +0000"
+    },
+    "done": false
   },
   "crystal_clear:recipes/decorations/crafting/glass_casing/train_clear_glass_casing": {
     "criteria": {
