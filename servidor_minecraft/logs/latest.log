@@ -1878,3 +1878,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 18:31:15.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved wrongly! 0.2640000475028046
 [23Mar2025 18:34:32.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Disgusting Lootbox]
 [23Mar2025 18:34:43.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved wrongly! 0.6433915517741298
+[23Mar2025 18:47:23.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/132347, l='ServerLevel[world]', x=915.46, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[23Mar2025 18:51:45.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/133858, l='ServerLevel[world]', x=923.41, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
+[23Mar2025 18:52:47.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/134732, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
+[23Mar2025 18:53:16.567] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/automation/block/be/FeedingTroughBlockEntity$FeedResult
