@@ -11780,6 +11780,12 @@
     },
     "done": true
   },
+  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/copper_clear_glass_scaffolding": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-03-23 16:11:28 +0000"
@@ -11801,6 +11807,18 @@
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-23 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/brass_clear_glass_scaffolding": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
+  "crystal_clear:recipes/decorations/crafting/glass_casing/brass_glass_casing": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
     },
     "done": true
   },
@@ -11828,6 +11846,12 @@
     },
     "done": true
   },
+  "crystal_clear:recipes/decorations/crafting/glass_casing/train_clear_glass_casing": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-23 16:11:28 +0000"
@@ -11840,6 +11864,12 @@
     },
     "done": true
   },
+  "crystal_clear:recipes/decorations/crafting/glass_casing/train_glass_casing": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_blue_industrial_lamp": {
     "criteria": {
       "has_small_blue_industrial_lamp": "2025-03-23 16:11:28 +0000"
@@ -11849,6 +11879,12 @@
   "refurbished_furniture:recipes/decorations/blue_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-23 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "crystal_clear:recipes/decorations/crafting/glass_casing/copper_clear_glass_casing": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
     },
     "done": true
   },
@@ -11870,9 +11906,27 @@
     },
     "done": true
   },
+  "crystal_clear:recipes/decorations/crafting/glass_casing/brass_clear_glass_casing": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-03-23 16:26:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-23 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "crystal_clear:recipes/decorations/crafting/glass_casing/andesite_glass_casing": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
     },
     "done": true
   },
@@ -11936,9 +11990,21 @@
     },
     "done": true
   },
+  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/andesite_clear_glass_scaffolding": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-23 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/andesite_glass_scaffolding": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
     },
     "done": true
   },
@@ -11948,9 +12014,33 @@
     },
     "done": true
   },
+  "crystal_clear:recipes/decorations/crafting/glass_casing/copper_glass_casing": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
   "labellingcontainers:recipes/tools/label_printer_recipe": {
     "criteria": {
       "has_items": "2025-03-23 15:59:16 +0000"
+    },
+    "done": true
+  },
+  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/brass_glass_scaffolding": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
+  "crystal_clear:recipes/decorations/crafting/glass_casing/andesite_clear_glass_casing": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
+  "crystal_clear:recipes/decorations/crafting/glass_scaffolding/copper_glass_scaffolding": {
+    "criteria": {
+      "has_valve": "2025-03-23 16:28:30 +0000"
     },
     "done": true
   },
