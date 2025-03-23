@@ -11770,7 +11770,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-23 17:11:59 +0000"
+      "requirement": "2025-03-23 17:21:59 +0000"
     },
     "done": false
   },
@@ -11822,6 +11822,18 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2025-03-23 17:20:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-03-23 17:20:43 +0000"
+    },
+    "done": true
+  },
   "crystal_clear:recipes/decorations/crafting/glass_casing/brass_glass_casing": {
     "criteria": {
       "has_valve": "2025-03-23 16:28:30 +0000"
@@ -11840,9 +11852,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-03-23 17:20:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-23 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-03-23 17:13:51 +0000"
     },
     "done": true
   },
@@ -11852,17 +11876,30 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2025-03-23 17:20:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-03-23 16:11:28 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-03-23 17:20:43 +0000"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-03-23 17:10:30 +0000"
+      "0": "2025-03-23 17:10:30 +0000",
+      "1": "2025-03-23 17:14:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "crystal_clear:recipes/decorations/crafting/glass_casing/train_clear_glass_casing": {
     "criteria": {
@@ -11891,6 +11928,12 @@
   "ad_astra:recipes/misc/small_blue_industrial_lamp": {
     "criteria": {
       "has_small_blue_industrial_lamp": "2025-03-23 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2025-03-23 17:20:43 +0000"
     },
     "done": true
   },
@@ -11924,6 +11967,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-03-23 17:14:11 +0000"
+    },
+    "done": true
+  },
   "crystal_clear:recipes/decorations/crafting/glass_casing/brass_clear_glass_casing": {
     "criteria": {
       "has_valve": "2025-03-23 16:28:30 +0000"
@@ -11945,6 +11994,30 @@
   "crystal_clear:recipes/decorations/crafting/glass_casing/andesite_glass_casing": {
     "criteria": {
       "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-03-23 17:20:43 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_iron_block": {
+    "criteria": {
+      "has_encased_iron_block": "2025-03-23 17:20:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-03-23 17:13:51 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wrench": {
+    "criteria": {
+      "has_wrench": "2025-03-23 17:20:43 +0000"
     },
     "done": true
   },
@@ -12002,6 +12075,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-03-23 17:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-03-23 16:11:28 +0000"
@@ -12020,6 +12099,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-03-23 17:20:43 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2025-03-23 17:20:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-03-23 17:13:51 +0000"
+    },
+    "done": true
+  },
   "crystal_clear:recipes/decorations/crafting/glass_scaffolding/andesite_glass_scaffolding": {
     "criteria": {
       "has_valve": "2025-03-23 16:28:30 +0000"
@@ -12029,6 +12126,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-03-23 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2025-03-23 17:20:43 +0000"
     },
     "done": true
   },
@@ -12044,9 +12147,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2025-03-23 17:20:43 +0000"
+    },
+    "done": true
+  },
   "crystal_clear:recipes/decorations/crafting/glass_scaffolding/brass_glass_scaffolding": {
     "criteria": {
       "has_valve": "2025-03-23 16:28:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-23 17:13:51 +0000"
     },
     "done": true
   },
