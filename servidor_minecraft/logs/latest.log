@@ -1885,3 +1885,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 18:55:51.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Skeleton
 [23Mar2025 18:55:51.719] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [23Mar2025 18:55:52.990] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Mar2025 19:07:34.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/147483, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[23Mar2025 19:10:47.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[23Mar2025 19:10:47.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[23Mar2025 19:11:23.375] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/149358, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
