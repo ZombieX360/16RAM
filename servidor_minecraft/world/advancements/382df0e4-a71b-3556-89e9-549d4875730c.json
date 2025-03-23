@@ -11828,6 +11828,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-03-23 16:43:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-23 16:11:28 +0000"
