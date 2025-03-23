@@ -14249,9 +14249,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/chungus_disc": {
+    "criteria": {
+      "has_item": "2025-03-23 06:53:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-23 06:23:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 06:53:33 +0000"
     },
     "done": true
   },
