@@ -2001,3 +2001,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 06:48:43.526] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1052, y=37, z=-2002}
 [23Mar2025 06:51:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Easter Egg Searcher]
 [23Mar2025 06:53:33.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Mutual Aid]
+[23Mar2025 07:00:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Returning Knight
+[23Mar2025 07:00:01.119] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Mar2025 07:00:03.232] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Mar2025 07:00:54.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Returning Knight
+[23Mar2025 07:00:54.923] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Mar2025 07:00:56.477] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Mar2025 07:01:29.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was blown up by ACUA-Ws
+[23Mar2025 07:01:29.519] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Mar2025 07:01:30.888] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[23Mar2025 07:01:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ACUA-Ws]
+[23Mar2025 07:02:40.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was obliterated by Returning Knight
+[23Mar2025 07:02:40.316] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Mar2025 07:02:41.595] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[23Mar2025 07:03:17.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
+[23Mar2025 07:03:17.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
+[23Mar2025 07:03:25.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[23Mar2025 07:03:25.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[23Mar2025 07:04:45.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/100.72.107.85:59451] logged in with entity id 91881 at (1240.7469788256853, 132.00124315097702, -1835.2153794679539)
+[23Mar2025 07:04:45.412] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[23Mar2025 07:04:45.412] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[23Mar2025 07:04:45.413] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[23Mar2025 07:04:45.413] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[23Mar2025 07:04:45.415] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[23Mar2025 07:04:45.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[23Mar2025 07:04:45.418] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[23Mar2025 07:04:45.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[23Mar2025 07:04:45.464] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[23Mar2025 07:04:47.527] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[23Mar2025 07:07:35.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/100.108.123.5:52268] logged in with entity id 104394 at (1236.8065905202056, 139.41999998688698, -1854.699999988079)
+[23Mar2025 07:07:35.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[23Mar2025 07:07:35.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[23Mar2025 07:07:35.388] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[23Mar2025 07:07:35.388] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[23Mar2025 07:07:35.389] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[23Mar2025 07:07:35.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[23Mar2025 07:07:35.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[23Mar2025 07:07:35.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[23Mar2025 07:07:35.472] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[23Mar2025 07:07:44.862] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
