@@ -1871,3 +1871,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 18:24:14.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by amigobuho360
 [23Mar2025 18:24:14.268] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [23Mar2025 18:24:16.581] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Mar2025 18:26:35.607] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[23Mar2025 18:27:10.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/120049, l='ServerLevel[world]', x=911.87, y=-256.00, z=1644.91] died, message: 'Unemployed was killed'
+[23Mar2025 18:30:17.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/122256, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
+[23Mar2025 18:31:07.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/122397, l='ServerLevel[world]', x=913.42, y=-256.00, z=1645.32] died, message: 'Unemployed was killed'
+[23Mar2025 18:31:15.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved wrongly! 0.2640000475028046
+[23Mar2025 18:34:32.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Disgusting Lootbox]
+[23Mar2025 18:34:43.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved wrongly! 0.6433915517741298
