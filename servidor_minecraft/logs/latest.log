@@ -2118,3 +2118,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 07:17:33.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1861, y=8, z=-3251}
 [23Mar2025 07:17:34.686] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1712, y=-40, z=-3269}
 [23Mar2025 07:17:40.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1957, y=56, z=-2873}
+[23Mar2025 07:20:19.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Mar2025 07:20:24.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ACUA-Ws to amigobuho360]
+[23Mar2025 07:21:10.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[23Mar2025 07:21:28.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[23Mar2025 07:22:00.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has completed the challenge [3rd Time's the Charm!]
+[23Mar2025 07:23:56.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ACUA-Ws) moved wrongly! 0.7445790120357287
+[23Mar2025 07:24:49.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/134623, l='ServerLevel[world]', x=909.14, y=-256.00, z=1645.07] died, message: 'Unemployed was killed'
+[23Mar2025 07:26:26.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Huntsman
+[23Mar2025 07:26:26.229] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Mar2025 07:26:28.074] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Mar2025 07:28:18.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Botfly
+[23Mar2025 07:28:18.575] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Mar2025 07:28:20.089] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.

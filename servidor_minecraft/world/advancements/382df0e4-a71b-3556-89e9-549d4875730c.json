@@ -10820,7 +10820,8 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
-      "darkin_blade": "2025-03-16 07:38:55 +0000"
+      "darkin_blade": "2025-03-16 07:38:55 +0000",
+      "nightfall": "2025-03-23 07:22:00 +0000"
     },
     "done": false
   },
@@ -11758,6 +11759,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-23 07:00:32 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:nightfall": {
+    "criteria": {
+      "weapon": "2025-03-23 07:22:00 +0000"
     },
     "done": true
   },
