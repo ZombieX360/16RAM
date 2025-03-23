@@ -11768,6 +11768,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-23 17:41:59 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2025-03-23 17:22:54 +0000"
@@ -11801,6 +11807,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-03-23 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-03-23 17:41:57 +0000"
     },
     "done": true
   },
