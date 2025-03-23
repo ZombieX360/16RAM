@@ -1863,3 +1863,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 18:08:08.321] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [23Mar2025 18:09:01.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103315, l='ServerLevel[world]', x=919.39, y=-256.00, z=1649.04] died, message: 'Unemployed was killed'
 [23Mar2025 18:10:16.540] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[23Mar2025 18:17:00.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Creative Mode]
+[23Mar2025 18:17:21.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Survival Mode]
+[23Mar2025 18:23:02.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Bound Forever]
+[23Mar2025 18:23:02.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[23Mar2025 18:23:41.112] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[23Mar2025 18:24:14.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by amigobuho360
+[23Mar2025 18:24:14.268] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Mar2025 18:24:16.581] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
