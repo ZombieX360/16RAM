@@ -11768,12 +11768,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-03-23 19:41:59 +0000"
-    },
-    "done": false
-  },
   "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-03-23 17:42:12 +0000"
