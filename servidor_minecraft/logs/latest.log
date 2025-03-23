@@ -1829,3 +1829,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 17:36:30.127] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/80429, l='ServerLevel[world]', x=915.46, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
 [23Mar2025 17:40:31.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
 [23Mar2025 17:40:31.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[23Mar2025 17:44:10.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws got cut in half by a Mechanical Saw
+[23Mar2025 17:44:10.463] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Mar2025 17:44:14.804] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[23Mar2025 17:47:46.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/100.72.107.85:50519] logged in with entity id 89339 at (910.5675913771751, 96.0, 1663.2542613133778)
+[23Mar2025 17:47:46.743] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[23Mar2025 17:47:46.743] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[23Mar2025 17:47:46.744] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[23Mar2025 17:47:46.744] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[23Mar2025 17:47:46.746] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[23Mar2025 17:47:46.748] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[23Mar2025 17:47:46.748] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[23Mar2025 17:47:46.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[23Mar2025 17:47:46.844] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[23Mar2025 17:47:48.923] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[23Mar2025 17:49:21.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cyclops/cyclopscore/algorithm/Dimension
+[23Mar2025 17:49:25.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[23Mar2025 17:49:25.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[23Mar2025 17:50:09.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [The Brass Age]
+[23Mar2025 17:51:25.064] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/crafter/MechanicalCrafterBlockEntity$Phase
+[23Mar2025 17:52:18.375] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92442, l='ServerLevel[world]', x=924.57, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
