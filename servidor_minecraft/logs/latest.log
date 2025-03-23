@@ -1882,3 +1882,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 18:51:45.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/133858, l='ServerLevel[world]', x=923.41, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
 [23Mar2025 18:52:47.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/134732, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
 [23Mar2025 18:53:16.567] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/automation/block/be/FeedingTroughBlockEntity$FeedResult
+[23Mar2025 18:55:51.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Skeleton
+[23Mar2025 18:55:51.719] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[23Mar2025 18:55:52.990] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
