@@ -1814,3 +1814,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 20:17:31.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Forever Bright?]
 [12Apr2025 20:17:31.735] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
 [12Apr2025 20:17:32.038] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/passive/fish/JellyDrifterEntity$Colors
+[12Apr2025 20:20:31.412] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[12Apr2025 20:22:45.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[12Apr2025 20:22:46.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was blown up by Mutant Creeper
+[12Apr2025 20:22:46.040] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[12Apr2025 20:22:46.079] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[12Apr2025 20:22:47.728] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[12Apr2025 20:22:53.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/76118, l='ServerLevel[world]', x=915.58, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
+[12Apr2025 20:22:57.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[12Apr2025 20:22:57.462] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[12Apr2025 20:22:57.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Knowledge Wasted]
+[12Apr2025 20:26:35.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
+[12Apr2025 20:26:35.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
