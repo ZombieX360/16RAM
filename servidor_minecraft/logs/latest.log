@@ -1808,3 +1808,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 20:00:18.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45788, l='ServerLevel[world]', x=914.64, y=-256.00, z=1651.04] died, message: 'Unemployed was killed'
 [12Apr2025 20:02:07.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45963, l='ServerLevel[world]', x=923.10, y=-256.00, z=1649.27] died, message: 'Unemployed was killed'
 [12Apr2025 20:06:51.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/50006, l='ServerLevel[world]', x=923.94, y=-256.00, z=1651.04] died, message: 'Unemployed was killed'
+[12Apr2025 20:12:17.112] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[12Apr2025 20:14:45.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[12Apr2025 20:17:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [What a Deal!]
+[12Apr2025 20:17:31.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Forever Bright?]
+[12Apr2025 20:17:31.735] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[12Apr2025 20:17:32.038] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/passive/fish/JellyDrifterEntity$Colors
