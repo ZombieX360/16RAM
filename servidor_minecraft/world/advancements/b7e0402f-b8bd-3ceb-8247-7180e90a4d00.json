@@ -1082,6 +1082,7 @@
       "minecraft:piglin_brute": "2024-12-27 02:33:36 +0000",
       "minecraft:creeper": "2024-12-27 02:15:34 +0000",
       "minecraft:evoker": "2024-12-23 21:59:00 +0000",
+      "minecraft:phantom": "2025-04-12 19:59:47 +0000",
       "minecraft:wither_skeleton": "2025-01-02 07:34:46 +0000",
       "minecraft:cave_spider": "2024-12-30 23:10:45 +0000",
       "minecraft:piglin": "2024-12-27 02:33:09 +0000",
@@ -11741,6 +11742,12 @@
       "coded_trigger": "2025-01-21 08:49:33 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-04-12 19:59:47 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/easter": {
     "criteria": {
