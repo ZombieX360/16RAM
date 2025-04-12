@@ -16269,3 +16269,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 15:21:47.411] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/5844, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
 [12Apr2025 15:21:47.411] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/5844, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
 [12Apr2025 15:21:47.534] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/5844, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[12Apr2025 15:26:47.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 15:26:47.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 15:26:47.216] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9353, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[12Apr2025 15:26:47.216] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9353, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[12Apr2025 15:26:47.311] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9353, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[12Apr2025 15:27:32.201] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemEasterEgg$ModelColor
+[12Apr2025 15:27:33.383] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[12Apr2025 15:29:39.699] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[12Apr2025 15:30:32.346] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/transport/BeltInventory$Ending
+[12Apr2025 15:30:32.351] [Server thread/DEBUG] [mixin/]: Mixing MixinMountedStorageManager from create_dd.mixins.json into com.simibubi.create.content.contraptions.MountedStorageManager
+[12Apr2025 15:30:32.351] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bindTanks$0(Ljava/util/Map;Lnet/minecraft/core/BlockPos;Lcom/simibubi/create/content/contraptions/MountedFluidStorage;)V to md1611f9$lambda$bindTanks$0$0 in create_dd.mixins.json:MixinMountedStorageManager
+[12Apr2025 15:30:32.360] [Server thread/DEBUG] [mixin/]: Mixing BlockMovementChecksMixin from createaddition.mixins.json into com.simibubi.create.content.contraptions.BlockMovementChecks
+[12Apr2025 15:30:32.361] [Server thread/DEBUG] [mixin/]: Mixing MixinBlockMovementChecks from create_dd.mixins.json into com.simibubi.create.content.contraptions.BlockMovementChecks
+[12Apr2025 15:30:32.367] [Server thread/DEBUG] [mixin/]: Mixing MixinMountedStorage from create_dd.mixins.json into com.simibubi.create.content.contraptions.MountedStorage
+[12Apr2025 15:30:32.372] [Server thread/DEBUG] [mixin/]: Mixing MountedFluidStorageMixin from createdieselgenerators.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[12Apr2025 15:30:32.374] [Server thread/DEBUG] [mixin/]: Mixing AccessorMountedFluidStorage from create_dd.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[12Apr2025 15:30:32.374] [Server thread/DEBUG] [mixin/]: Mixing MixinMountedFluidStorage from create_dd.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[12Apr2025 15:30:32.421] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[12Apr2025 15:30:35.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[12Apr2025 15:30:44.953] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/utility/TreeCutter$SearchDirection
+[12Apr2025 15:30:45.674] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[12Apr2025 15:31:20.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[12Apr2025 15:31:20.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[12Apr2025 15:31:20.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[12Apr2025 15:31:20.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[12Apr2025 15:31:20.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[12Apr2025 15:31:30.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[12Apr2025 15:31:49.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 15:31:49.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 15:31:49.296] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/14247, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[12Apr2025 15:31:49.296] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/14247, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[12Apr2025 15:31:49.390] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/14247, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[12Apr2025 15:32:08.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Survival Mode]
+[12Apr2025 15:33:27.387] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=6838, y=5, z=13215}
+[12Apr2025 15:35:13.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType

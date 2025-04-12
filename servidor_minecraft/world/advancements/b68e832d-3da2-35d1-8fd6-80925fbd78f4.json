@@ -14627,5 +14627,11 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/fluid_reservoir_from_fluid_tank_stonecutting": {
+    "criteria": {
+      "has_fluid_tank": "2025-04-12 15:29:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
