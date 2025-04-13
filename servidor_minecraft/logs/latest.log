@@ -1961,3 +1961,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 04:30:06.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Complex Curiosities]
 [13Apr2025 04:32:27.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/54057, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
 [13Apr2025 04:33:15.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [The Brass Age]
+[13Apr2025 04:46:27.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77533, l='ServerLevel[world]', x=923.26, y=-256.00, z=1661.23] died, message: 'Unemployed was killed'
+[13Apr2025 04:49:41.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/82816, l='ServerLevel[world]', x=923.41, y=-256.00, z=1651.07] died, message: 'Unemployed was killed'
+[13Apr2025 04:50:05.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=820, y=67, z=1626} BlockPos{x=820, y=68, z=1626}
+[13Apr2025 04:50:26.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/83510, l='ServerLevel[world]', x=923.50, y=111.00, z=1661.50] died, message: 'Unemployed was killed'
