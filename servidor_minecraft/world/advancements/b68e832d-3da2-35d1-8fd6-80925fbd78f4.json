@@ -15464,6 +15464,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/giant_cobblestone_to_cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-13 23:22:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/giant_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-13 23:22:47 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/oni": {
     "criteria": {
       "kill": "2025-04-13 23:13:53 +0000"
@@ -15479,6 +15491,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-04-13 23:12:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/giant_sword": {
+    "criteria": {
+      "has_item": "2025-04-13 23:22:47 +0000"
     },
     "done": true
   },

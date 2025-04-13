@@ -3542,3 +3542,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 23:16:16.380] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
 [13Apr2025 23:16:17.769] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [13Apr2025 23:16:30.119] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[13Apr2025 23:21:40.115] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[13Apr2025 23:25:03.943] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[13Apr2025 23:25:03.946] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[13Apr2025 23:25:04.837] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6877, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[13Apr2025 23:28:59.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8086, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
