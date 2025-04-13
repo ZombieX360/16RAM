@@ -15218,6 +15218,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-04-13 05:11:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/iron_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-04-13 04:19:33 +0000"
@@ -15287,6 +15293,12 @@
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2025-04-13 04:33:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-04-13 05:11:24 +0000"
     },
     "done": true
   },
