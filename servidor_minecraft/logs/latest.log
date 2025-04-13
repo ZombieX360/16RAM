@@ -1965,3 +1965,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 04:49:41.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/82816, l='ServerLevel[world]', x=923.41, y=-256.00, z=1651.07] died, message: 'Unemployed was killed'
 [13Apr2025 04:50:05.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=820, y=67, z=1626} BlockPos{x=820, y=68, z=1626}
 [13Apr2025 04:50:26.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/83510, l='ServerLevel[world]', x=923.50, y=111.00, z=1661.50] died, message: 'Unemployed was killed'
+[13Apr2025 04:53:23.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/89876, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
+[13Apr2025 04:59:11.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[13Apr2025 05:00:45.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
