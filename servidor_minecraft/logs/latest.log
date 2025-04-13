@@ -3592,3 +3592,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [13Apr2025 23:35:01.267] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [13Apr2025 23:39:09.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cyclops/cyclopscore/algorithm/Dimension
+[13Apr2025 23:42:14.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[13Apr2025 23:44:00.293] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[13Apr2025 23:44:50.913] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
