@@ -12658,6 +12658,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-15 02:13:24 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-04-15 02:05:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-04-15 01:08:30 +0000"
@@ -12667,6 +12679,12 @@
   "soulsweapons:recipes/combat/soul_ingot_helmet": {
     "criteria": {
       "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
     },
     "done": true
   },
@@ -12685,6 +12703,12 @@
   "soulsweapons:recipes/combat/translucent_double_greatsword": {
     "criteria": {
       "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
     },
     "done": true
   },
@@ -12709,6 +12733,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-04-15 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-15 02:05:58 +0000"
     },
     "done": true
   },
@@ -12742,6 +12772,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/chainmail_backtank": {
     "criteria": {
       "has_backtank": "2025-04-15 01:08:33 +0000"
@@ -12754,9 +12790,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-15 01:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-15 02:08:23 +0000"
     },
     "done": true
   },
@@ -12766,9 +12814,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/spriggan": {
     "criteria": {
       "kill": "2025-04-15 01:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-15 02:08:33 +0000"
     },
     "done": true
   },
@@ -12787,6 +12871,12 @@
   "grimoireofgaia:main/harpy": {
     "criteria": {
       "kill": "2025-04-15 00:33:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
     },
     "done": true
   },
@@ -12814,6 +12904,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/birch": {
     "criteria": {
       "has_wood": "2025-04-15 00:35:55 +0000"
@@ -12838,9 +12934,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/oni": {
     "criteria": {
       "kill": "2025-04-15 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
     },
     "done": true
   },
@@ -12853,6 +12961,12 @@
   "soulsweapons:recipes/combat/soul_robes_boots": {
     "criteria": {
       "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
     },
     "done": true
   },
@@ -12874,6 +12988,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:recipes/misc/fur_to_leather": {
     "criteria": {
       "has_fur": "2025-04-15 01:13:16 +0000"
@@ -12886,9 +13012,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_abyssal_ruins": {
     "criteria": {
       "abyssal_ruins": "2025-04-15 01:55:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
     },
     "done": true
   },

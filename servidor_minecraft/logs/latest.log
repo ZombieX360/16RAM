@@ -1362,3 +1362,20 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [15Apr2025 02:03:08.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
+[15Apr2025 02:05:37.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [You Are A Pirate]
+[15Apr2025 02:05:58.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Penteconter]
+[15Apr2025 02:06:48.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Klaudius Bloodglare'/146120, l='ServerLevel[world]', x=10623.51, y=67.00, z=-919.54] died: Klaudius Bloodglare was slain by Forlorn
+[15Apr2025 02:07:12.461] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[15Apr2025 02:07:28.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[15Apr2025 02:11:20.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Hullbreaker
+[15Apr2025 02:11:20.102] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[15Apr2025 02:11:21.354] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[15Apr2025 02:11:31.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[15Apr2025 02:11:52.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Hullbreaker
+[15Apr2025 02:11:52.258] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[15Apr2025 02:11:53.687] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[15Apr2025 02:12:29.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Hullbreaker
+[15Apr2025 02:12:29.363] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[15Apr2025 02:12:30.585] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[15Apr2025 02:14:01.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[15Apr2025 02:14:07.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
