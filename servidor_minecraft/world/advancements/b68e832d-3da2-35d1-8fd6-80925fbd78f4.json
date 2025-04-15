@@ -353,6 +353,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-15 01:42:10 +0000",
       "minecraft:taiga": "2024-12-30 21:57:50 +0000",
       "minecraft:deep_ocean": "2025-04-15 01:32:38 +0000",
       "minecraft:frozen_river": "2024-12-23 22:08:12 +0000",
@@ -385,6 +386,7 @@
       "minecraft:windswept_savanna": "2024-12-25 18:17:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-17 06:34:39 +0000",
       "minecraft:flower_forest": "2025-01-18 01:54:06 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-15 01:48:42 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-23 21:38:52 +0000",
       "minecraft:savanna": "2025-01-04 07:10:14 +0000",
       "minecraft:plains": "2024-12-23 21:08:40 +0000"
@@ -15503,12 +15505,6 @@
       "has_item": "2025-04-13 23:22:47 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-15 01:39:40 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
