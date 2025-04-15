@@ -1379,3 +1379,16 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Apr2025 02:12:30.585] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
 [15Apr2025 02:14:01.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [15Apr2025 02:14:07.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[15Apr2025 02:15:31.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Century Egg]
+[15Apr2025 02:19:26.337] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -2245 -56 -452 in 2s
+[15Apr2025 02:21:02.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mondongo[/100.121.72.113:50000] logged in with entity id 168495 at (939.0790026978581, 77.0, 1695.020741815005)
+[15Apr2025 02:21:02.073] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mondongo
+[15Apr2025 02:21:02.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mondongo
+[15Apr2025 02:21:02.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mondongo
+[15Apr2025 02:21:02.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mondongo
+[15Apr2025 02:21:02.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mondongo
+[15Apr2025 02:21:02.078] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mondongo
+[15Apr2025 02:21:02.078] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mondongo
+[15Apr2025 02:21:02.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo joined the game
+[15Apr2025 02:21:02.179] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
+[15Apr2025 02:21:20.553] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.

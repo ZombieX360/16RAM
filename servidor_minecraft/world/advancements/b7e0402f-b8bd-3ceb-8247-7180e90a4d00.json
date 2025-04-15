@@ -12658,12 +12658,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-15 02:13:24 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2025-04-15 02:05:37 +0000"
@@ -12991,6 +12985,12 @@
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tremorzilla_egg": {
+    "criteria": {
+      "quarry": "2025-04-15 02:15:31 +0000"
     },
     "done": true
   },
