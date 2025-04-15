@@ -353,6 +353,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-15 02:00:34 +0000",
       "minecraft:frozen_river": "2024-12-23 22:11:47 +0000",
       "minecraft:birch_forest": "2024-12-27 07:30:21 +0000",
       "minecraft:windswept_hills": "2024-12-30 00:33:50 +0000",
@@ -12759,9 +12760,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-04-15 01:52:56 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/spriggan": {
     "criteria": {
       "kill": "2025-04-15 01:10:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-04-15 01:55:03 +0000"
     },
     "done": true
   },
@@ -12870,6 +12883,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-04-15 00:17:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-04-15 01:55:03 +0000"
     },
     "done": true
   },
