@@ -12704,6 +12704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-04-15 01:07:33 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_ingot_boots": {
     "criteria": {
       "has_item": "2025-04-15 00:53:03 +0000"
@@ -12761,6 +12767,12 @@
   "soulsweapons:recipes/combat/soul_robes_helmet": {
     "criteria": {
       "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/quill": {
+    "criteria": {
+      "has_diamond": "2025-04-15 01:02:09 +0000"
     },
     "done": true
   },

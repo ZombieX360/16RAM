@@ -552,3 +552,87 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Apr2025 00:59:19.604] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
 [15Apr2025 00:59:39.215] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
 [15Apr2025 01:02:05.954] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[15Apr2025 01:02:21.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15Apr2025 01:02:39.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3310ms or 66 ticks behind
+[15Apr2025 01:02:46.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[15Apr2025 01:07:14.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Zombie
+[15Apr2025 01:07:14.526] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[15Apr2025 01:07:33.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo lost connection: Disconnected
+[15Apr2025 01:07:33.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo left the game
+[15Apr2025 01:07:42.863] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[15Apr2025 01:08:30.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Stolen Magic]
+[15Apr2025 01:08:35.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[15Apr2025 01:08:36.439] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[15Apr2025 01:08:39.707] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15Apr2025 01:08:42.539] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[15Apr2025 01:08:42.539] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15Apr2025 01:08:49.520] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[15Apr2025 01:08:49.521] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[15Apr2025 01:08:49.521] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15Apr2025 01:08:49.521] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15Apr2025 01:08:54.616] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=829, y=40, z=-153}
+[15Apr2025 01:08:57.721] [Worker-Main-148/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[15Apr2025 01:09:22.433] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1298, y=11, z=-380}
+[15Apr2025 01:09:26.559] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1313, y=-30, z=-413}
+[15Apr2025 01:09:26.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1339, y=20, z=-477}
+[15Apr2025 01:09:27.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1354, y=-40, z=-420}
+[15Apr2025 01:09:27.573] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1338, y=-8, z=-397}
+[15Apr2025 01:09:32.497] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1420, y=-17, z=-478}
+[15Apr2025 01:09:51.870] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1840, y=40, z=-902}
+[15Apr2025 01:09:55.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! 10.068618942688317,0.14921871848852675,2.4700187360908785
+[15Apr2025 01:09:55.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! 11.507088708007814,0.1870293694034757,2.818100033080327
+[15Apr2025 01:09:55.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! 12.945506469047814,0.23004782442541227,3.165236441978891
+[15Apr2025 01:09:55.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! 14.383841860974599,0.27721686117965305,3.511467485647586
+[15Apr2025 01:09:55.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! 15.822069226396934,0.3314342748944341,3.8568315586834387
+[15Apr2025 01:09:55.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! 17.26016706331484,0.3914288647140296,4.201366001450197
+[15Apr2025 01:09:55.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! -12.942064618535369,-0.4208980725870646,-3.117842280906075
+[15Apr2025 01:09:55.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! -12.942064618535369,-0.4208980725870646,-3.117842280906075
+[15Apr2025 01:09:55.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! -12.942064618535369,-0.4208980725870646,-3.117842280906075
+[15Apr2025 01:09:55.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! -12.942064618535369,-0.4208980725870646,-3.117842280906075
+[15Apr2025 01:09:55.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! -12.942064618535369,-0.4208980725870646,-3.117842280906075
+[15Apr2025 01:09:55.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! -12.942064618535369,-0.4208980725870646,-3.117842280906075
+[15Apr2025 01:09:55.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! -11.504765840114942,-0.3513970152557846,-2.7744963688492135
+[15Apr2025 01:09:55.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! -11.504209712573584,-0.28853555562177746,-2.7815839594275076
+[15Apr2025 01:09:55.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved too quickly! -11.50404600272077,-0.22713261151443476,-2.7884075095635126
+[15Apr2025 01:10:12.335] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2231, y=-21, z=-761}
+[15Apr2025 01:10:12.872] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2249, y=-48, z=-716}
+[15Apr2025 01:10:14.720] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2271, y=-49, z=-732}
+[15Apr2025 01:10:21.016] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2349, y=-7, z=-843}
+[15Apr2025 01:10:33.097] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2390, y=-11, z=-892}
+[15Apr2025 01:10:33.097] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2388, y=-11, z=-892}
+[15Apr2025 01:10:33.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2377, y=-20, z=-644}
+[15Apr2025 01:10:34.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved wrongly!
+[15Apr2025 01:10:41.020] [Worker-Main-147/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[15Apr2025 01:10:41.020] [Worker-Main-147/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[15Apr2025 01:10:41.021] [Worker-Main-147/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[15Apr2025 01:10:41.021] [Worker-Main-147/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[15Apr2025 01:10:41.578] [Worker-Main-178/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[15Apr2025 01:10:41.579] [Worker-Main-178/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[15Apr2025 01:10:41.579] [Worker-Main-178/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[15Apr2025 01:10:41.594] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[15Apr2025 01:10:41.594] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[15Apr2025 01:10:41.595] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[15Apr2025 01:10:41.595] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[15Apr2025 01:10:42.247] [Worker-Main-101/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[15Apr2025 01:10:42.248] [Worker-Main-101/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[15Apr2025 01:10:42.248] [Worker-Main-101/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[15Apr2025 01:10:42.248] [Worker-Main-101/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[15Apr2025 01:10:42.686] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2583, y=-32, z=-808}
+[15Apr2025 01:10:42.712] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[15Apr2025 01:10:43.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[15Apr2025 01:10:44.018] [Worker-Main-147/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[15Apr2025 01:10:44.018] [Worker-Main-147/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[15Apr2025 01:10:44.019] [Worker-Main-147/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[15Apr2025 01:10:44.019] [Worker-Main-147/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[15Apr2025 01:11:20.187] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2898, y=-51, z=-688}
+[15Apr2025 01:11:23.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3038, y=-44, z=-774}
+[15Apr2025 01:11:51.872] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3259, y=6, z=-849}
+[15Apr2025 01:11:59.422] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3157, y=24, z=-938}
+[15Apr2025 01:12:03.357] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3134, y=21, z=-929}
+[15Apr2025 01:12:03.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3289, y=20, z=-913}
+[15Apr2025 01:12:14.397] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3374, y=-42, z=-800}
+[15Apr2025 01:12:17.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3378, y=-38, z=-804}
+[15Apr2025 01:12:19.573] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3399, y=-54, z=-832}
+[15Apr2025 01:12:20.722] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3421, y=-48, z=-880}
+[15Apr2025 01:12:21.186] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2938, y=-24, z=-908}
+[15Apr2025 01:12:25.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3393, y=-15, z=-682}
