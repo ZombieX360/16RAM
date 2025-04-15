@@ -1964,3 +1964,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Apr2025 08:32:53.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! 4.555565095165321,2.554552918833096,-8.542791829402404
 [15Apr2025 08:38:21.300] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
 [15Apr2025 08:39:30.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/endertech/minecraft/forge/blocks/ISmokeContainer$Type
+[15Apr2025 08:51:08.674] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[15Apr2025 08:51:08.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[15Apr2025 08:51:18.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -10.102239029401403,-2.8181688159839524,0.7357538803637453
+[15Apr2025 08:51:32.446] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[15Apr2025 08:51:38.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15895, l='ServerLevel[world]', x=923.50, y=-256.00, z=1661.50] died, message: 'Unemployed was killed'
+[15Apr2025 08:56:03.181] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
