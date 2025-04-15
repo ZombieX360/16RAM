@@ -357,6 +357,7 @@
       "minecraft:birch_forest": "2024-12-27 07:30:21 +0000",
       "minecraft:windswept_hills": "2024-12-30 00:33:50 +0000",
       "minecraft:beach": "2024-12-23 21:33:24 +0000",
+      "minecraft:dark_forest": "2025-04-15 01:09:44 +0000",
       "minecraft:river": "2024-12-23 21:47:05 +0000",
       "minecraft:snowy_plains": "2025-01-10 04:27:26 +0000",
       "minecraft:snowy_taiga": "2024-12-23 22:08:27 +0000",
@@ -12656,6 +12657,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 01:08:30 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_ingot_helmet": {
     "criteria": {
       "has_item": "2025-04-15 00:53:03 +0000"
@@ -12704,6 +12711,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2025-04-15 01:11:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2025-04-15 01:07:33 +0000"
@@ -12716,9 +12729,21 @@
     },
     "done": true
   },
+  "creategoggles:recipes/chainmail_backtank": {
+    "criteria": {
+      "has_backtank": "2025-04-15 01:08:33 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_robes_leggings": {
     "criteria": {
       "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/spriggan": {
+    "criteria": {
+      "kill": "2025-04-15 01:10:05 +0000"
     },
     "done": true
   },
@@ -12752,6 +12777,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/orc": {
+    "criteria": {
+      "kill": "2025-04-15 01:10:18 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/birch": {
     "criteria": {
       "has_wood": "2025-04-15 00:35:55 +0000"
@@ -12773,6 +12804,12 @@
   "grimoireofgaia:recipes/misc/quill": {
     "criteria": {
       "has_diamond": "2025-04-15 01:02:09 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2025-04-15 01:21:42 +0000"
     },
     "done": true
   },
@@ -12800,6 +12837,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:recipes/misc/fur_to_leather": {
+    "criteria": {
+      "has_fur": "2025-04-15 01:13:16 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-04-15 00:17:13 +0000"
@@ -12809,6 +12852,12 @@
   "soulsweapons:recipes/combat/soul_ingot_chestplate": {
     "criteria": {
       "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/decorations/pearl_block": {
+    "criteria": {
+      "has_shiny_pearl": "2025-04-15 01:11:11 +0000"
     },
     "done": true
   },

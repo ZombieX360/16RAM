@@ -627,6 +627,7 @@
       "prairie": "2025-01-04 05:54:32 +0000",
       "snowy_fir_clearing": "2024-12-23 22:06:47 +0000",
       "snowy_coniferous_forest": "2025-01-10 04:30:52 +0000",
+      "tundra": "2025-04-15 01:12:06 +0000",
       "glowing_grotto": "2024-12-24 13:46:52 +0000",
       "gravel_beach": "2024-12-29 22:59:34 +0000",
       "rainforest": "2025-01-04 06:58:20 +0000",
@@ -15500,6 +15501,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-04-15 01:08:14 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2025-04-15 01:08:14 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/harpy": {
     "criteria": {
       "kill": "2025-04-15 00:36:18 +0000"
@@ -15521,6 +15534,12 @@
   "bossominium:skelenados": {
     "criteria": {
       "skelenados": "2025-04-15 00:40:52 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/decorations/pearl_block": {
+    "criteria": {
+      "has_shiny_pearl": "2025-04-15 01:08:14 +0000"
     },
     "done": true
   },
