@@ -12611,75 +12611,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
-    },
-    "done": false
-  },
   "create:mechanical_crafter": {
     "criteria": {
       "0": "2025-04-13 04:12:51 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
-    },
-    "done": false
-  },
-  "create_enchantment_industry:experienced_engineer": {
-    "criteria": {
-      "have_experience_nugget": "2025-04-13 05:10:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
-    },
-    "done": false
-  },
-  "create_enchantment_industry:recipes/experience_rotor": {
-    "criteria": {
-      "has_item": "2025-04-13 05:10:47 +0000"
     },
     "done": true
   },
@@ -12689,11 +12623,23 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "create:crusher_maxed_0000": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
+      "0": "2025-04-13 04:17:38 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-04-13 05:10:47 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2025-04-13 05:10:47 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
@@ -12707,21 +12653,15 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "grimoireofgaia:main/root": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
+      "join": "2025-04-15 00:17:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "cataclysm:root": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 05:28:59 +0000"
-    },
-    "done": false
-  },
-  "create:crusher_maxed_0000": {
-    "criteria": {
-      "0": "2025-04-13 04:17:38 +0000"
+      "custom_test_name": "2025-04-15 00:17:13 +0000"
     },
     "done": true
   },
