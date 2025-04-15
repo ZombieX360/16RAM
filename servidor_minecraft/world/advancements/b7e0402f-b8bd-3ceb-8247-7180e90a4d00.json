@@ -12658,33 +12658,81 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+  "grimoireofgaia:main/root": {
     "criteria": {
-      "location1": "2025-04-15 02:05:37 +0000"
+      "join": "2025-04-15 00:17:13 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/stolen_magic": {
+  "cataclysm:root": {
     "criteria": {
-      "coded_trigger": "2025-04-15 01:08:30 +0000"
+      "custom_test_name": "2025-04-15 00:17:13 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "has_item": "2025-04-15 00:53:03 +0000"
+      "find_artifact": "2025-04-15 00:30:18 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+  "soulsweapons:nightfall": {
     "criteria": {
-      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+      "weapon": "2025-04-15 00:30:23 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-04-15 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-04-15 00:33:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-15 00:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-15 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-15 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-04-15 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-04-15 00:35:55 +0000"
     },
     "done": true
   },
   "bossominium:skele_slayer": {
     "criteria": {
       "skele_slayer": "2025-04-15 00:41:48 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+    "criteria": {
+      "has_item": "2025-04-15 00:53:03 +0000"
     },
     "done": true
   },
@@ -12700,63 +12748,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/translucent_sword": {
     "criteria": {
       "has_item": "2025-04-15 00:53:03 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:nightfall": {
-    "criteria": {
-      "weapon": "2025-04-15 00:30:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-04-15 00:55:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-04-15 00:35:55 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-04-15 02:05:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-04-15 01:46:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/magic_siphoner": {
-    "criteria": {
-      "coded_trigger": "2025-04-15 01:45:36 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/cecaelia": {
-    "criteria": {
-      "kill": "2025-04-15 01:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
-    "criteria": {
-      "has_netherite_block": "2025-04-15 01:07:33 +0000"
     },
     "done": true
   },
@@ -12766,9 +12760,63 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+  "soulsweapons:recipes/combat/soul_robes_leggings": {
     "criteria": {
-      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+      "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_helmet": {
+    "criteria": {
+      "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_boots": {
+    "criteria": {
+      "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_leggings": {
+    "criteria": {
+      "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-15 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-15 00:55:08 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/quill": {
+    "criteria": {
+      "has_diamond": "2025-04-15 01:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-04-15 01:07:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 01:08:30 +0000"
     },
     "done": true
   },
@@ -12778,15 +12826,51 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_robes_leggings": {
+  "grimoireofgaia:main/spriggan": {
     "criteria": {
-      "has_item": "2025-04-15 00:53:03 +0000"
+      "kill": "2025-04-15 01:10:05 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+  "grimoireofgaia:main/orc": {
     "criteria": {
-      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+      "kill": "2025-04-15 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2025-04-15 01:11:10 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/decorations/pearl_block": {
+    "criteria": {
+      "has_shiny_pearl": "2025-04-15 01:11:11 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/fur_to_leather": {
+    "criteria": {
+      "has_fur": "2025-04-15 01:13:16 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2025-04-15 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 01:45:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 01:45:36 +0000"
     },
     "done": true
   },
@@ -12796,9 +12880,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sponge": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "has_wet_sponge": "2025-04-15 02:08:23 +0000"
+      "has_clay_block": "2025-04-15 01:46:46 +0000"
     },
     "done": true
   },
@@ -12808,15 +12892,69 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-04-15 01:55:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-04-15 01:55:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-04-15 02:05:37 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-15 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-15 02:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-15 02:08:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
     },
     "done": true
   },
-  "grimoireofgaia:main/spriggan": {
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
-      "kill": "2025-04-15 01:10:05 +0000"
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
     },
     "done": true
   },
@@ -12844,57 +12982,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-04-15 02:08:33 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_abyssal_chasm": {
-    "criteria": {
-      "discover": "2025-04-15 01:55:03 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-04-15 00:30:18 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/harpy": {
-    "criteria": {
-      "kill": "2025-04-15 00:33:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_robes_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-15 00:53:03 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/minotaurus": {
-    "criteria": {
-      "kill": "2025-04-15 00:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-04-15 00:35:55 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/orc": {
-    "criteria": {
-      "kill": "2025-04-15 01:10:18 +0000"
     },
     "done": true
   },
@@ -12904,39 +12994,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-04-15 00:35:55 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-04-15 00:33:42 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_robes_helmet": {
-    "criteria": {
-      "has_item": "2025-04-15 00:53:03 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:recipes/misc/quill": {
-    "criteria": {
-      "has_diamond": "2025-04-15 01:02:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/oni": {
-    "criteria": {
-      "kill": "2025-04-15 01:21:42 +0000"
     },
     "done": true
   },
@@ -12946,39 +13006,9 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/root": {
-    "criteria": {
-      "join": "2025-04-15 00:17:13 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_robes_boots": {
-    "criteria": {
-      "has_item": "2025-04-15 00:53:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_ingot_leggings": {
-    "criteria": {
-      "has_item": "2025-04-15 00:53:03 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/birch": {
-    "criteria": {
-      "has_planks": "2025-04-15 00:35:55 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mastery_1": {
-    "criteria": {
-      "coded_trigger": "2025-04-15 01:45:36 +0000"
     },
     "done": true
   },
@@ -12988,39 +13018,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/tremorzilla_egg": {
-    "criteria": {
-      "quarry": "2025-04-15 02:15:31 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
     },
     "done": true
   },
-  "grimoireofgaia:recipes/misc/fur_to_leather": {
-    "criteria": {
-      "has_fur": "2025-04-15 01:13:16 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-04-15 00:17:13 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-15 02:10:53 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_abyssal_ruins": {
-    "criteria": {
-      "abyssal_ruins": "2025-04-15 01:55:03 +0000"
     },
     "done": true
   },
@@ -13036,15 +13042,87 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+  "alexscaves:alexscaves/tremorzilla_egg": {
     "criteria": {
-      "has_item": "2025-04-15 00:53:03 +0000"
+      "quarry": "2025-04-15 02:15:31 +0000"
     },
     "done": true
   },
-  "grimoireofgaia:recipes/decorations/pearl_block": {
+  "grimoireofgaia:main/minotaur": {
     "criteria": {
-      "has_shiny_pearl": "2025-04-15 01:11:11 +0000"
+      "kill": "2025-04-15 02:35:55 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/diamond_shard_from_diamond": {
+    "criteria": {
+      "has_diamond_shard": "2025-04-15 02:35:55 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/food/golden_apple_pie": {
+    "criteria": {
+      "has_golden_apple_pie_slice": "2025-04-15 02:35:55 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/emerald_shard_to_emerald": {
+    "criteria": {
+      "has_emerald_shard": "2025-04-15 02:35:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-15 02:37:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-04-15 02:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-15 02:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-15 02:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-15 02:42:53 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat_from_smoking": {
+    "criteria": {
+      "crab_meat": "2025-04-15 02:43:15 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
+    "criteria": {
+      "crab_meat": "2025-04-15 02:43:15 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat": {
+    "criteria": {
+      "crab_meat": "2025-04-15 02:43:15 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/dullahan": {
+    "criteria": {
+      "kill": "2025-04-15 02:52:18 +0000"
     },
     "done": true
   },
