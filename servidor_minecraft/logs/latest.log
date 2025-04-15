@@ -537,3 +537,18 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Apr2025 00:50:14.728] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-44, y=-20, z=1950}
 [15Apr2025 00:50:15.912] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-80, y=-21, z=1990}
 [15Apr2025 00:50:58.161] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[15Apr2025 00:55:08.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Best Friends Forever]
+[15Apr2025 00:55:30.570] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at 11108 -34 -735 in 13s
+[15Apr2025 00:57:54.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[15Apr2025 00:59:19.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mondongo[/100.121.72.113:50970] logged in with entity id 48678 at (818.179759674272, 64.0, 1645.4889487277271)
+[15Apr2025 00:59:19.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mondongo
+[15Apr2025 00:59:19.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mondongo
+[15Apr2025 00:59:19.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mondongo
+[15Apr2025 00:59:19.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mondongo
+[15Apr2025 00:59:19.527] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mondongo
+[15Apr2025 00:59:19.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mondongo
+[15Apr2025 00:59:19.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mondongo
+[15Apr2025 00:59:19.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo joined the game
+[15Apr2025 00:59:19.604] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
+[15Apr2025 00:59:39.215] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[15Apr2025 01:02:05.954] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.

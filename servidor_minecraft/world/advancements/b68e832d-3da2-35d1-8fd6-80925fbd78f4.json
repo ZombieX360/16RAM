@@ -15506,6 +15506,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:recipes/misc/quill": {
+    "criteria": {
+      "has_diamond": "2025-04-15 00:51:47 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/dullahan": {
     "criteria": {
       "kill": "2025-04-15 00:06:19 +0000"
