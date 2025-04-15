@@ -15500,6 +15500,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-04-15 00:36:18 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/dullahan": {
     "criteria": {
       "kill": "2025-04-15 00:06:19 +0000"

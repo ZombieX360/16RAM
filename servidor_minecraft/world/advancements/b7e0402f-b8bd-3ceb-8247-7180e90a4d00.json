@@ -1088,6 +1088,7 @@
       "minecraft:cave_spider": "2024-12-30 23:10:45 +0000",
       "minecraft:piglin": "2024-12-27 02:33:09 +0000",
       "minecraft:silverfish": "2024-12-29 23:10:27 +0000",
+      "minecraft:enderman": "2025-04-15 00:35:51 +0000",
       "minecraft:zombie": "2024-12-23 21:48:44 +0000",
       "quark:foxhound": "2024-12-27 02:46:02 +0000",
       "minecraft:drowned": "2024-12-23 22:27:30 +0000",
@@ -7471,7 +7472,8 @@
       "darkin_blade": "2025-01-08 08:36:55 +0000",
       "bluemoon_short": "2024-12-30 00:27:13 +0000",
       "bloodthirster": "2025-01-10 03:59:08 +0000",
-      "draugr": "2025-01-11 05:55:19 +0000"
+      "draugr": "2025-01-11 05:55:19 +0000",
+      "nightfall": "2025-04-15 00:30:23 +0000"
     },
     "done": false
   },
@@ -12653,9 +12655,63 @@
     },
     "done": true
   },
+  "soulsweapons:nightfall": {
+    "criteria": {
+      "weapon": "2025-04-15 00:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-15 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-15 00:30:18 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-04-15 00:33:21 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-04-15 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-15 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-04-15 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-15 00:33:42 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/root": {
     "criteria": {
       "join": "2025-04-15 00:17:13 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-04-15 00:35:55 +0000"
     },
     "done": true
   },
