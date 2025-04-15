@@ -509,3 +509,31 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Apr2025 00:41:36.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
 [15Apr2025 00:41:36.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [15Apr2025 00:41:36.765] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[15Apr2025 00:41:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [Skele Slayer]
+[15Apr2025 00:45:29.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ZingyMonk719952) moved wrongly! 0.8484474286601653
+[15Apr2025 00:46:12.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ZingyMonk719952) moved wrongly! 0.2560016635534339
+[15Apr2025 00:48:46.322] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[15Apr2025 00:49:44.834] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[15Apr2025 00:49:44.834] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15Apr2025 00:49:44.834] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_attack_speed'
+[15Apr2025 00:49:47.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.7179118272297274
+[15Apr2025 00:49:50.538] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_attack_speed'
+[15Apr2025 00:49:50.538] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[15Apr2025 00:49:50.538] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15Apr2025 00:49:50.538] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15Apr2025 00:49:50.538] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[15Apr2025 00:49:50.538] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_armor_negation'
+[15Apr2025 00:49:50.538] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_impact'
+[15Apr2025 00:49:50.538] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_max_strikes'
+[15Apr2025 00:49:51.777] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[15Apr2025 00:49:51.777] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15Apr2025 00:49:51.777] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15Apr2025 00:49:51.777] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[15Apr2025 00:49:51.777] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15Apr2025 00:49:53.631] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[15Apr2025 00:49:53.631] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15Apr2025 00:50:10.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[15Apr2025 00:50:12.464] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-45, y=-20, z=1950}
+[15Apr2025 00:50:14.728] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-44, y=-20, z=1950}
+[15Apr2025 00:50:15.912] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-80, y=-21, z=1990}
+[15Apr2025 00:50:58.161] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
