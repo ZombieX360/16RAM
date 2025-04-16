@@ -1964,3 +1964,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Apr2025 22:24:52.285] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [16Apr2025 22:38:21.353] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
 [16Apr2025 22:38:21.640] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlock$CartAssemblerAction
+[16Apr2025 22:38:56.212] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[16Apr2025 22:38:56.214] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[16Apr2025 22:39:01.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14134, l='ServerLevel[world]', x=923.43, y=-256.00, z=1651.09] died, message: 'Unemployed was killed'
+[16Apr2025 22:39:41.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[16Apr2025 22:41:55.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Source of Evil]
+[16Apr2025 22:45:39.556] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17643, l='ServerLevel[world]', x=924.58, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
