@@ -13126,12 +13126,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/spout": {
-    "criteria": {
-      "has_item": "2025-04-15 08:58:18 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/building_blocks/infused_blackstone": {
     "criteria": {
       "has_item": "2025-04-15 08:16:19 +0000"
@@ -13162,33 +13156,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
-    "criteria": {
-      "has_item": "2025-04-15 08:58:18 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/printer": {
-    "criteria": {
-      "has_item": "2025-04-15 08:58:18 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/hunter_pistol": {
     "criteria": {
       "has_lost_soul": "2025-04-15 08:16:19 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/disenchanter": {
-    "criteria": {
-      "has_item": "2025-04-15 08:58:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2025-04-15 08:58:18 +0000"
     },
     "done": true
   },
@@ -13216,18 +13186,6 @@
     },
     "done": true
   },
-  "adchimneys:recipes/building_blocks/metal_pump": {
-    "criteria": {
-      "has_item": "2025-04-15 08:40:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_drain": {
-    "criteria": {
-      "has_item": "2025-04-15 08:58:18 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
     "criteria": {
       "has_item": "2025-04-15 08:16:19 +0000"
@@ -13243,6 +13201,54 @@
   "soulsweapons:recipes/combat/gatling_gun": {
     "criteria": {
       "has_lost_soul": "2025-04-15 08:16:19 +0000"
+    },
+    "done": true
+  },
+  "adchimneys:recipes/building_blocks/metal_pump": {
+    "criteria": {
+      "has_item": "2025-04-15 08:40:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-04-15 08:58:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-04-15 08:58:18 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2025-04-15 08:58:18 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2025-04-15 08:58:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-04-15 08:58:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-04-15 08:58:18 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/nine_tails": {
+    "criteria": {
+      "kill": "2025-04-16 22:23:34 +0000"
     },
     "done": true
   },
