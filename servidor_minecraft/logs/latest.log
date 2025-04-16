@@ -2031,3 +2031,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [16Apr2025 23:01:20.538] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
 [16Apr2025 23:01:28.138] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
 [16Apr2025 23:03:45.541] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[16Apr2025 23:16:44.846] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[16Apr2025 23:16:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has reached the goal [Easy Opening]
