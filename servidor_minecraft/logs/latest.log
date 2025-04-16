@@ -2019,3 +2019,15 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [16Apr2025 22:55:44.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo lost connection: Disconnected
 [16Apr2025 22:55:44.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo left the game
+[16Apr2025 23:01:20.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mondongo[/100.121.72.113:56986] logged in with entity id 25724 at (818.0380863404582, 100.0, 1773.47881352847)
+[16Apr2025 23:01:20.451] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mondongo
+[16Apr2025 23:01:20.451] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mondongo
+[16Apr2025 23:01:20.451] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mondongo
+[16Apr2025 23:01:20.452] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mondongo
+[16Apr2025 23:01:20.454] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mondongo
+[16Apr2025 23:01:20.456] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mondongo
+[16Apr2025 23:01:20.456] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mondongo
+[16Apr2025 23:01:20.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo joined the game
+[16Apr2025 23:01:20.538] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
+[16Apr2025 23:01:28.138] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[16Apr2025 23:03:45.541] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
