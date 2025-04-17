@@ -15826,11 +15826,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "born_in_chaos_v1:soul_eater": {
     "criteria": {
-      "requirement": "2025-04-17 23:35:20 +0000"
+      "soul_eater_0": "2025-04-17 23:43:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
