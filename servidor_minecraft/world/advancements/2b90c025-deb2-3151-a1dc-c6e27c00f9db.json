@@ -5391,5 +5391,95 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-04-17 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-04-17 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-17 17:55:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-04-17 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-04-17 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/frost_bow": {
+    "criteria": {
+      "has_ibow": "2025-04-17 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-04-17 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-04-17 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-04-17 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/ender_bow": {
+    "criteria": {
+      "has_ibow": "2025-04-17 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2025-04-17 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2025-04-17 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/multi_bow": {
+    "criteria": {
+      "has_ibow": "2025-04-17 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-17 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/flame_bow": {
+    "criteria": {
+      "has_ibow": "2025-04-17 17:59:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
