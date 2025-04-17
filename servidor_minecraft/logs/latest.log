@@ -5628,3 +5628,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 18:38:27.651] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
 [17Apr2025 18:38:29.023] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
 [17Apr2025 18:43:53.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[17Apr2025 18:49:04.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Deceived Hopes]
+[17Apr2025 18:50:29.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Stay dead]
+[17Apr2025 18:54:54.115] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[17Apr2025 18:54:54.116] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[17Apr2025 18:54:54.120] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[17Apr2025 18:56:58.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has reached the goal [Troll Hunter]
+[17Apr2025 18:58:14.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Iron Maiden]
+[17Apr2025 18:58:17.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A large Graveyard horde of undead appeared at 923 151 1053.
