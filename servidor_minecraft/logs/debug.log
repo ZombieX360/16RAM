@@ -19259,3 +19259,50 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Apr2025 00:20:21.182] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Mondongo'/61751, l='ServerLevel[world]', x=878.16, y=-56.00, z=1685.41]
 [17Apr2025 00:20:25.140] [Server thread/DEBUG] [twilightforest/]: Player Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db) respawned and received items held in storage
 [17Apr2025 00:20:25.580] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[17Apr2025 00:20:43.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17Apr2025 00:20:55.051] [Worker-Main-222/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonshieldboss at BlockPos{x=-197, y=75, z=-703} at Chest with:minecraft:chests/nether_bridge
+[17Apr2025 00:21:15.612] [Worker-Main-21/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=39, y=67, z=-274} at Chest with:minecraft:chests/nether_bridge
+[17Apr2025 00:21:29.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle
+[17Apr2025 00:21:34.958] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/111413, l='ServerLevel[world]', x=19.92, y=69.00, z=187.54], dimensionLocationPath the_nether
+[17Apr2025 00:21:34.958] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/111413, l='ServerLevel[world]', x=19.92, y=69.00, z=187.54] is dead or in a banned dimension the_nether
+[17Apr2025 00:21:35.390] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/111426, l='ServerLevel[world]', x=-3.11, y=61.00, z=195.60], dimensionLocationPath the_nether
+[17Apr2025 00:21:35.390] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Glowstone Dust'/111426, l='ServerLevel[world]', x=-3.11, y=61.00, z=195.60] is dead or in a banned dimension the_nether
+[17Apr2025 00:21:55.892] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Mondongo'/61751, l='ServerLevel[world]', x=877.87, y=-56.13, z=1686.89], dimensionLocationPath overworld
+[17Apr2025 00:21:55.892] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Mondongo'/61751, l='ServerLevel[world]', x=877.87, y=-56.13, z=1686.89] in list []
+[17Apr2025 00:22:06.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Mondongo
+[17Apr2025 00:22:06.897] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mondongo was created at position [x:877, y:-57, z:1687, dim:minecraft:overworld]
+[17Apr2025 00:22:06.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Mondongo'/61751, l='ServerLevel[world]', x=879.70, y=-56.00, z=1687.70]
+[17Apr2025 00:22:06.904] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[17Apr2025 00:22:08.332] [Server thread/DEBUG] [twilightforest/]: Player Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db) respawned and received items held in storage
+[17Apr2025 00:22:08.436] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[17Apr2025 00:22:13.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ZingyMonk719952) moved wrongly! 0.3824650772978657
+[17Apr2025 00:22:25.765] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[17Apr2025 00:23:23.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[17Apr2025 00:23:23.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[17Apr2025 00:23:23.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[17Apr2025 00:23:23.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[17Apr2025 00:23:23.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[17Apr2025 00:23:23.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[17Apr2025 00:23:24.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[17Apr2025 00:23:29.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[17Apr2025 00:23:37.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[17Apr2025 00:23:59.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/115458, l='ServerLevel[world]', x=816.13, y=44.75, z=2384.85], dimensionLocationPath overworld
+[17Apr2025 00:23:59.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/115458, l='ServerLevel[world]', x=816.13, y=44.75, z=2384.85] in list []
+[17Apr2025 00:24:00.472] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/115458, l='ServerLevel[world]', x=816.13, y=44.75, z=2384.85, removed=UNLOADED_TO_CHUNK]
+[17Apr2025 00:25:02.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117121, l='ServerLevel[world]', x=847.21, y=-256.00, z=1733.28] died, message: 'Unemployed was killed'
+[17Apr2025 00:25:07.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 00:25:07.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 00:25:08.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/117923, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[17Apr2025 00:25:08.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/117923, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[17Apr2025 00:25:08.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/117922, l='ServerLevel[world]', x=1.48, y=13.53, z=15.68], dimensionLocationPath overworld
+[17Apr2025 00:25:08.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/117922, l='ServerLevel[world]', x=1.48, y=13.53, z=15.68] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1cca3]
+[17Apr2025 00:25:08.193] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/117923, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[17Apr2025 00:25:08.193] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/117922, l='ServerLevel[world]', x=1.48, y=13.53, z=15.68, removed=UNLOADED_TO_CHUNK]
+[17Apr2025 00:30:07.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 00:30:07.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 00:30:08.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/120673, l='ServerLevel[world]', x=1.48, y=13.53, z=15.68], dimensionLocationPath overworld
+[17Apr2025 00:30:08.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/120673, l='ServerLevel[world]', x=1.48, y=13.53, z=15.68] in list []
+[17Apr2025 00:30:08.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/120674, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[17Apr2025 00:30:08.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/120674, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1d761]
+[17Apr2025 00:30:08.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/120673, l='ServerLevel[world]', x=1.48, y=13.53, z=15.68, removed=UNLOADED_TO_CHUNK]
+[17Apr2025 00:30:08.165] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/120674, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
