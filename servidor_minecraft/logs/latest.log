@@ -5636,3 +5636,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 18:56:58.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has reached the goal [Troll Hunter]
 [17Apr2025 18:58:14.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Iron Maiden]
 [17Apr2025 18:58:17.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A large Graveyard horde of undead appeared at 923 151 1053.
+[17Apr2025 19:03:40.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo lost connection: Disconnected
+[17Apr2025 19:03:40.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo left the game

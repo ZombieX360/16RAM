@@ -5398,6 +5398,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 19:03:19 +0000"
+    },
+    "done": false
+  },
   "create_dd:recipes/create_dd.palettes/layered_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-04-17 18:53:55 +0000"
@@ -5410,6 +5482,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-04-17 18:53:55 +0000"
@@ -5419,6 +5497,12 @@
   "create_dd:recipes/create_dd.palettes/small_amethyst_block_brick_wall_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-04-17 18:53:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
     },
     "done": true
   },
@@ -5437,6 +5521,12 @@
   "grimoireofgaia:main/deathword": {
     "criteria": {
       "kill": "2025-04-17 18:23:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
     },
     "done": true
   },
@@ -5470,6 +5560,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-04-17 18:53:56 +0000"
@@ -5479,6 +5575,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
     },
     "done": true
   },
@@ -5578,6 +5680,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 18:22:09 +0000"
@@ -5593,6 +5701,12 @@
   "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-04-17 18:53:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
     },
     "done": true
   },
@@ -5641,6 +5755,12 @@
   "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2025-04-17 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
     },
     "done": true
   },
@@ -5704,9 +5824,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-04-17 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
     },
     "done": true
   },
@@ -5743,6 +5875,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-17 18:50:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-04-17 18:58:14 +0000"
     },
     "done": true
   },
@@ -5812,6 +5950,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-04-17 18:50:03 +0000"
@@ -5851,6 +6007,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-04-17 18:34:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
     },
     "done": true
   },
@@ -5896,6 +6058,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-04-17 18:53:55 +0000"
@@ -5914,9 +6082,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-17 18:21:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-17 18:57:18 +0000"
     },
     "done": true
   },
@@ -5959,6 +6151,12 @@
   "morebows:recipes/gold_bow": {
     "criteria": {
       "has_bow": "2025-04-17 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-04-17 18:56:58 +0000"
     },
     "done": true
   },
