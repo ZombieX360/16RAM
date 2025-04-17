@@ -2454,7 +2454,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2025-04-15 03:25:23 +0000"
+      "opened_chest": "2025-04-15 03:25:23 +0000",
+      "opened_cart": "2025-04-17 23:19:12 +0000"
     },
     "done": false
   },
@@ -2834,6 +2835,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-16 23:33:18 +0000",
       "minecraft:spider": "2025-04-17 03:21:05 +0000",
+      "minecraft:creeper": "2025-04-17 23:20:17 +0000",
       "minecraft:zombified_piglin": "2025-04-17 02:09:05 +0000",
       "minecraft:witch": "2025-04-17 18:34:10 +0000",
       "minecraft:cave_spider": "2025-04-17 18:34:55 +0000",
@@ -6246,6 +6248,30 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-17 23:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-17 23:19:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-17 23:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-17 23:19:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-04-17 23:11:21 +0000"
@@ -6255,6 +6281,12 @@
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-04-17 23:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-17 23:19:50 +0000"
     },
     "done": true
   },
