@@ -7,3 +7,21 @@
 [17Apr2025 00:05:02.491] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [17Apr2025 00:05:07.006] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
 [17Apr2025 00:05:07.008] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[17Apr2025 00:10:45.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Full Moon in a Pocket]
+[17Apr2025 00:12:16.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Fatty Demon]
+[17Apr2025 00:12:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Not Today, Thank You]
+[17Apr2025 00:14:19.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ZingyMonk719952) moved wrongly! 0.5677295179118573
+[17Apr2025 00:14:19.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ZingyMonk719952) moved wrongly! 1.5120271910918746
+[17Apr2025 00:14:28.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved wrongly!
+[17Apr2025 00:15:24.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cyclops/cyclopscore/algorithm/Dimension
+[17Apr2025 00:16:09.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [A Strange Grave Dust]
+[17Apr2025 00:17:07.451] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[17Apr2025 00:17:44.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/TBK/creature_compendium/server/entity/NetheriteForgeEntity$state
+[17Apr2025 00:19:03.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104838, l='ServerLevel[world]', x=924.58, y=-256.00, z=1651.10] died, message: 'Unemployed was killed'
+[17Apr2025 00:19:40.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17Apr2025 00:20:02.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Apr2025 00:20:06.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [A Terrible Fortress]
+[17Apr2025 00:20:19.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[17Apr2025 00:20:21.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was doomed to fall by The Old Miner
+[17Apr2025 00:20:21.180] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[17Apr2025 00:20:25.580] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
