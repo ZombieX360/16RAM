@@ -2103,3 +2103,10 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [16Apr2025 23:47:12.994] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
 [16Apr2025 23:48:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Hunt and Gather]
 [16Apr2025 23:48:56.151] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[16Apr2025 23:57:07.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/75725, l='ServerLevel[world]', x=847.21, y=-256.00, z=1733.28] died, message: 'Unemployed was killed'
+[16Apr2025 23:57:49.731] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[16Apr2025 23:57:49.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3429ms or 68 ticks behind
+[16Apr2025 23:58:04.839] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[16Apr2025 23:58:23.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/78304, l='ServerLevel[world]', x=915.46, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[16Apr2025 23:59:19.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [False Water]
+[16Apr2025 23:59:44.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/81049, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
