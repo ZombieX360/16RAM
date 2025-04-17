@@ -13574,6 +13574,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-04-17 09:55:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-17 09:31:43 +0000"
@@ -13589,6 +13595,12 @@
   "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-17 09:31:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-04-17 09:55:41 +0000"
     },
     "done": true
   },
@@ -13625,6 +13637,12 @@
   "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-17 09:31:43 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-04-17 09:59:14 +0000"
     },
     "done": true
   },
@@ -13676,9 +13694,21 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2025-04-17 09:57:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-17 09:31:43 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-04-17 09:57:33 +0000"
     },
     "done": true
   },

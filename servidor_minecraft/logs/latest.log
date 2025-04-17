@@ -2180,3 +2180,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 09:34:46.743] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [17Apr2025 09:35:02.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/40425, l='ServerLevel[world]', x=924.57, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
 [17Apr2025 09:40:12.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! 1.0497012697388755,4.8748335873909525,8.861612317750087
+[17Apr2025 09:47:50.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43296, l='ServerLevel[world]', x=915.46, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[17Apr2025 09:48:46.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43426, l='ServerLevel[world]', x=924.57, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
+[17Apr2025 09:52:11.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/44603, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[17Apr2025 09:53:24.383] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[17Apr2025 09:56:49.732] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[17Apr2025 09:57:33.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Spirit Taking]
+[17Apr2025 09:59:14.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [A Shower "Experience"]
