@@ -5638,3 +5638,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 18:58:17.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A large Graveyard horde of undead appeared at 923 151 1053.
 [17Apr2025 19:03:40.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo lost connection: Disconnected
 [17Apr2025 19:03:40.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo left the game
+[17Apr2025 19:10:16.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mondongo[/100.121.72.113:51986] logged in with entity id 60424 at (978.012285922776, -24.0, 1078.1920981046972)
+[17Apr2025 19:10:16.064] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mondongo
+[17Apr2025 19:10:16.064] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mondongo
+[17Apr2025 19:10:16.065] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mondongo
+[17Apr2025 19:10:16.065] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mondongo
+[17Apr2025 19:10:16.067] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mondongo
+[17Apr2025 19:10:16.069] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mondongo
+[17Apr2025 19:10:16.069] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mondongo
+[17Apr2025 19:10:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo joined the game
+[17Apr2025 19:10:16.117] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
+[17Apr2025 19:10:23.425] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[17Apr2025 19:10:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by The Old Miner
+[17Apr2025 19:10:56.880] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[17Apr2025 19:11:30.160] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[17Apr2025 19:12:13.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo moved too quickly! -4.863213476101578,-0.3533949605505029,8.921356227280057
+[17Apr2025 19:12:37.445] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62648, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[17Apr2025 19:12:38.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo lost connection: Disconnected
+[17Apr2025 19:12:38.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo left the game
+[17Apr2025 19:17:52.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mondongo[/100.121.72.113:58029] logged in with entity id 62816 at (781.3474218728102, 52.94281565926174, 1762.7457987895484)
+[17Apr2025 19:17:52.261] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mondongo
+[17Apr2025 19:17:52.261] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mondongo
+[17Apr2025 19:17:52.262] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mondongo
+[17Apr2025 19:17:52.263] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mondongo
+[17Apr2025 19:17:52.266] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mondongo
+[17Apr2025 19:17:52.270] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mondongo
+[17Apr2025 19:17:52.270] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mondongo
+[17Apr2025 19:17:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo joined the game
+[17Apr2025 19:17:52.292] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
+[17Apr2025 19:18:01.126] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[17Apr2025 19:19:08.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Direwolf
+[17Apr2025 19:19:08.080] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[17Apr2025 19:19:11.671] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
