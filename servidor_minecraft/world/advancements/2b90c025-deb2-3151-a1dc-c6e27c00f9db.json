@@ -376,6 +376,7 @@
       "minecraft:river": "2025-04-15 01:19:42 +0000",
       "minecraft:snowy_plains": "2025-04-17 05:01:29 +0000",
       "minecraft:snowy_taiga": "2025-04-17 05:30:38 +0000",
+      "minecraft:windswept_forest": "2025-04-17 18:10:25 +0000",
       "minecraft:plains": "2025-04-15 01:16:51 +0000"
     },
     "done": false
@@ -5406,6 +5407,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-04-17 17:55:25 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/coal_piece_from_coal": {
+    "criteria": {
+      "has_coal_piece": "2025-04-17 18:10:36 +0000"
     },
     "done": true
   },
