@@ -15826,6 +15826,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:recipes/misc/experience_iron": {
+    "criteria": {
+      "has_iron_box": "2025-04-17 23:55:18 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:soul_eater": {
     "criteria": {
       "soul_eater_0": "2025-04-17 23:43:38 +0000"

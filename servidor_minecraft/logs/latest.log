@@ -2118,3 +2118,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Apr2025 23:32:04.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35098, l='ServerLevel[world]', x=924.50, y=-256.00, z=1651.02] died, message: 'Unemployed was killed'
 [17Apr2025 23:33:08.032] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35437, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
 [17Apr2025 23:43:38.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [Soul Eater]
+[17Apr2025 23:52:56.456] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[17Apr2025 23:56:52.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Minotaur
+[17Apr2025 23:56:52.274] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[17Apr2025 23:56:53.492] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
