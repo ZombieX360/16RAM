@@ -1102,6 +1102,7 @@
       "minecraft:wither": "2025-04-17 02:06:23 +0000",
       "minecraft:evoker": "2024-12-23 21:59:00 +0000",
       "minecraft:phantom": "2025-04-12 19:59:47 +0000",
+      "minecraft:zombified_piglin": "2025-04-17 22:43:00 +0000",
       "minecraft:witch": "2025-04-13 03:08:34 +0000",
       "minecraft:wither_skeleton": "2025-01-02 07:34:46 +0000",
       "minecraft:shulker": "2025-04-17 04:54:56 +0000",
@@ -13733,6 +13734,48 @@
   "create:stressometer": {
     "criteria": {
       "0": "2025-04-17 10:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-17 22:43:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-04-17 22:36:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:ender_of_world_ender": {
+    "criteria": {
+      "soulsweapons:chaos_monarch": "2025-04-17 22:42:26 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/chungus_disc": {
+    "criteria": {
+      "has_item": "2025-04-17 22:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-17 22:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-17 22:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-17 22:43:11 +0000"
     },
     "done": true
   },
