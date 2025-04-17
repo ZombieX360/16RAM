@@ -5613,3 +5613,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 18:19:43.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Mondongo) moved too quickly! -2.022397319138122,4.924787840189396,10.013674983097872
 [17Apr2025 18:19:43.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Mondongo) moved too quickly! -1.7821280436659208,4.495724884973342,9.29144907911791
 [17Apr2025 18:19:43.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Mondongo) moved too quickly! -1.7656354804482817,4.564980813450774,9.443259930470504
+[17Apr2025 18:28:53.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Take Aim]
+[17Apr2025 18:32:48.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37820, l='ServerLevel[world]', x=915.46, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[17Apr2025 18:33:25.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Hot Stuff]
+[17Apr2025 18:34:10.971] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[17Apr2025 18:34:10.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Ambush]
+[17Apr2025 18:35:45.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo tried to swim in lava
+[17Apr2025 18:35:45.878] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[17Apr2025 18:35:45.887] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[17Apr2025 18:35:47.605] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[17Apr2025 18:36:42.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[17Apr2025 18:38:13.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/40141, l='ServerLevel[world]', x=923.50, y=111.00, z=1661.50] died, message: 'Unemployed was killed'
+[17Apr2025 18:38:27.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Enraged Troll
+[17Apr2025 18:38:27.651] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[17Apr2025 18:38:29.023] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.

@@ -2830,6 +2830,8 @@
       "minecraft:skeleton": "2025-04-16 23:33:18 +0000",
       "minecraft:spider": "2025-04-17 03:21:05 +0000",
       "minecraft:zombified_piglin": "2025-04-17 02:09:05 +0000",
+      "minecraft:witch": "2025-04-17 18:34:10 +0000",
+      "minecraft:cave_spider": "2025-04-17 18:34:55 +0000",
       "minecraft:silverfish": "2025-04-17 03:41:19 +0000",
       "minecraft:vex": "2025-04-17 03:22:58 +0000",
       "minecraft:zombie": "2025-04-17 00:17:28 +0000",
@@ -5405,6 +5407,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-17 18:28:53 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-04-17 18:19:21 +0000"
@@ -5414,6 +5422,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-17 18:33:25 +0000"
     },
     "done": true
   },
@@ -5471,6 +5485,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-04-17 18:34:48 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mimic": {
+    "criteria": {
+      "kill": "2025-04-17 18:29:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 18:22:09 +0000"
@@ -5480,6 +5506,12 @@
   "create_dd:recipes/misc/crafting/lapis_lazuli_from_lapis_lazuli_shard": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-17 18:21:31 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/arachne": {
+    "criteria": {
+      "kill": "2025-04-17 18:34:47 +0000"
     },
     "done": true
   },
@@ -5501,6 +5533,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 18:34:10 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/frost_bow": {
     "criteria": {
       "has_ibow": "2025-04-17 17:59:30 +0000"
@@ -5519,9 +5557,21 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/blasting_sail": {
+    "criteria": {
+      "has_lava_bucket": "2025-04-17 18:33:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-04-17 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-04-17 18:34:48 +0000"
     },
     "done": true
   },
@@ -5567,6 +5617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-17 18:34:06 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/ender_bow": {
     "criteria": {
       "has_ibow": "2025-04-17 17:59:30 +0000"
@@ -5582,6 +5638,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-17 18:34:48 +0000"
     },
     "done": true
   },
@@ -5621,6 +5683,12 @@
     },
     "done": true
   },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2025-04-17 18:34:48 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/gold_bow": {
     "criteria": {
       "has_bow": "2025-04-17 17:59:30 +0000"
@@ -5630,6 +5698,12 @@
   "create_dd:recipes/create_dd.base/crafting/bury_blend": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-17 18:21:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-04-17 18:34:48 +0000"
     },
     "done": true
   },
@@ -5657,6 +5731,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-04-17 18:34:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-04-17 18:19:48 +0000"
@@ -5678,6 +5758,18 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-17 18:34:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-04-17 18:34:48 +0000"
     },
     "done": true
   },
