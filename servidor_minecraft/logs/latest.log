@@ -2070,3 +2070,35 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Apr2025 23:05:01.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo joined the game
 [17Apr2025 23:05:01.241] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
 [17Apr2025 23:05:09.315] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[17Apr2025 23:09:47.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/100.72.107.85:53625] logged in with entity id 26641 at (869.4405955157958, 72.0, 1719.704013078802)
+[17Apr2025 23:09:47.545] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[17Apr2025 23:09:47.545] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[17Apr2025 23:09:47.545] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[17Apr2025 23:09:47.545] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[17Apr2025 23:09:47.547] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[17Apr2025 23:09:47.549] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[17Apr2025 23:09:47.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[17Apr2025 23:09:47.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[17Apr2025 23:09:47.672] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[17Apr2025 23:09:49.311] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[17Apr2025 23:09:56.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[17Apr2025 23:09:56.011] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[17Apr2025 23:09:56.021] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[17Apr2025 23:10:50.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[17Apr2025 23:11:00.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[17Apr2025 23:11:20.464] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[17Apr2025 23:11:21.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[17Apr2025 23:11:21.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Let The Magic Happen]
+[17Apr2025 23:11:21.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [The Most Useful Key]
+[17Apr2025 23:11:32.267] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[17Apr2025 23:11:32.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has reached the goal [A Fast Comeback]
+[17Apr2025 23:11:34.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by The Old Miner
+[17Apr2025 23:11:34.742] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[17Apr2025 23:11:36.685] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[17Apr2025 23:11:53.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[17Apr2025 23:12:04.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[17Apr2025 23:12:27.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28847, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[17Apr2025 23:12:51.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo moved wrongly!
+[17Apr2025 23:12:55.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[17Apr2025 23:13:00.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28967, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[17Apr2025 23:14:21.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!

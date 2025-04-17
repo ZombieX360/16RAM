@@ -779,6 +779,7 @@
       "highland": "2025-04-17 18:45:47 +0000",
       "cold_desert": "2025-04-17 03:16:26 +0000",
       "maple_woods": "2025-04-15 01:20:09 +0000",
+      "field": "2025-04-17 23:10:38 +0000",
       "coniferous_forest": "2025-04-15 02:50:21 +0000",
       "redwood_forest": "2025-04-15 03:24:58 +0000",
       "seasonal_forest": "2025-04-15 01:21:57 +0000",
@@ -786,6 +787,7 @@
       "pumpkin_patch": "2025-04-15 03:22:35 +0000",
       "grassland": "2025-04-15 01:18:42 +0000",
       "snowy_coniferous_forest": "2025-04-17 03:16:12 +0000",
+      "snowy_fir_clearing": "2025-04-17 23:12:50 +0000",
       "glowing_grotto": "2025-04-16 23:38:22 +0000",
       "ominous_woods": "2025-04-15 03:12:45 +0000"
     },
@@ -6244,77 +6246,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
+      "has_upgraded_grave_key": "2025-04-17 23:11:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "tombstone:adventure/consume_soul": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
+      "coded_trigger": "2025-04-17 23:11:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
+      "coded_trigger": "2025-04-17 23:11:32 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 23:05:20 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
