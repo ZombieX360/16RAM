@@ -1996,3 +1996,34 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Apr2025 01:17:50.583] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
 [17Apr2025 01:17:50.586] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
 [17Apr2025 01:17:53.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7333, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[17Apr2025 01:19:59.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/100.68.66.103:52657] logged in with entity id 9428 at (833.3860709202169, 65.0, 1669.685320486017)
+[17Apr2025 01:19:59.903] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[17Apr2025 01:19:59.903] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[17Apr2025 01:19:59.904] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[17Apr2025 01:19:59.904] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[17Apr2025 01:19:59.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[17Apr2025 01:19:59.909] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[17Apr2025 01:19:59.909] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[17Apr2025 01:19:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[17Apr2025 01:20:00.030] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[17Apr2025 01:20:00.539] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[17Apr2025 01:20:03.355] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[17Apr2025 01:21:15.044] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[17Apr2025 01:21:21.414] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[17Apr2025 01:21:26.258] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[17Apr2025 01:21:34.506] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[17Apr2025 01:21:53.751] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[17Apr2025 01:21:57.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[17Apr2025 01:22:09.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo fell from a high place
+[17Apr2025 01:22:09.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[17Apr2025 01:22:09.079] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[17Apr2025 01:22:12.865] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[17Apr2025 01:22:20.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved wrongly!
+[17Apr2025 01:22:42.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemEasterEgg$ModelColor
+[17Apr2025 01:24:11.572] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[17Apr2025 01:24:46.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[17Apr2025 01:26:04.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo burned to death
+[17Apr2025 01:26:04.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[17Apr2025 01:26:04.441] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[17Apr2025 01:26:09.406] [Server thread/INFO] [do_a_barrel_roll/]: Client of Mondongo accepted server config.
+[17Apr2025 01:27:06.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved wrongly!
