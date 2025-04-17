@@ -1985,3 +1985,74 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 22:41:51.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/soulsweaponry/entity/ai/goal/ChaosMonarchGoal$HitboxType
 [17Apr2025 22:41:57.582] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [17Apr2025 22:42:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [The End of the World Ender]
+[17Apr2025 22:45:44.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/100.72.107.85:53378] logged in with entity id 18051 at (914.2761880359205, 97.0, 1660.5056777359705)
+[17Apr2025 22:45:44.321] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[17Apr2025 22:45:44.325] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[17Apr2025 22:45:44.326] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[17Apr2025 22:45:44.326] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[17Apr2025 22:45:44.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[17Apr2025 22:45:44.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[17Apr2025 22:45:44.339] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[17Apr2025 22:45:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[17Apr2025 22:45:44.523] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[17Apr2025 22:45:44.645] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[17Apr2025 22:45:46.403] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[17Apr2025 22:47:00.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
+[17Apr2025 22:47:00.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[17Apr2025 22:47:02.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[17Apr2025 22:47:02.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[17Apr2025 22:47:04.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/100.68.66.103:58760] logged in with entity id 19359 at (868.8304194864687, 72.0, 1717.6135118658258)
+[17Apr2025 22:47:04.663] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[17Apr2025 22:47:04.664] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[17Apr2025 22:47:04.664] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[17Apr2025 22:47:04.664] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[17Apr2025 22:47:04.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[17Apr2025 22:47:04.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[17Apr2025 22:47:04.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[17Apr2025 22:47:04.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[17Apr2025 22:47:04.699] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[17Apr2025 22:47:11.758] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[17Apr2025 22:47:45.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
+[17Apr2025 22:47:45.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[17Apr2025 22:47:45.128] [Netty Epoll Server IO #0/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda$37965/0x000070f9600e9c00.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mdbf998c$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23403!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mdbf998c$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23403!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2384!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17Apr2025 22:49:51.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/100.68.66.103:58883] logged in with entity id 20586 at (868.8304194864687, 72.0, 1717.6135118658258)
+[17Apr2025 22:49:51.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[17Apr2025 22:49:51.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[17Apr2025 22:49:51.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[17Apr2025 22:49:51.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[17Apr2025 22:49:51.357] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[17Apr2025 22:49:51.359] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[17Apr2025 22:49:51.359] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[17Apr2025 22:49:51.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[17Apr2025 22:49:51.394] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[17Apr2025 22:49:54.866] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[17Apr2025 22:51:27.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22194, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[17Apr2025 22:51:45.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22263, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[17Apr2025 22:54:29.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22711, l='ServerLevel[world]', x=923.50, y=111.00, z=1661.50] died, message: 'Unemployed was killed'

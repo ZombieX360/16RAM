@@ -13737,15 +13737,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-04-17 22:43:11 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/sugar_rush": {
     "criteria": {
       "all_effects": "2025-04-17 22:36:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/chungus_disc": {
+    "criteria": {
+      "has_item": "2025-04-17 22:42:15 +0000"
     },
     "done": true
   },
@@ -13755,9 +13755,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/misc/chungus_disc": {
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
-      "has_item": "2025-04-17 22:42:15 +0000"
+      "has_rabbit": "2025-04-17 22:43:11 +0000"
     },
     "done": true
   },
