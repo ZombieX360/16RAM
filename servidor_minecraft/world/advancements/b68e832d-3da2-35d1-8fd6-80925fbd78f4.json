@@ -15826,6 +15826,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2025-04-18 00:13:34 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:recipes/misc/diamond_shard_to_diamond": {
     "criteria": {
       "has_diamond_shard": "2025-04-17 23:58:11 +0000"
